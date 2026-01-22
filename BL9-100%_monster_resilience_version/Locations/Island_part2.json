@@ -2,7 +2,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "island_base_storage1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_thconc_floor",
@@ -94,7 +93,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "island_base_storage2" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_thconc_floor",
@@ -190,7 +188,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "island_base_storage3" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_thconc_floor",
@@ -286,7 +283,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "island_base_factory1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_thconc_floor",
@@ -387,7 +383,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "island_base_factory2" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_thconc_floor",
@@ -492,7 +487,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "island_base_factory3" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_thconc_floor",
@@ -596,7 +590,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "island_base_core1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_thconc_floor",
@@ -690,7 +683,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "island_base_core2" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_thconc_floor",
@@ -788,7 +780,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "island_base_core2_island" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_thconc_floor",
@@ -886,7 +877,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "island_base_core3" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_thconc_floor",
@@ -980,7 +970,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "island_base_medresearch1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_thconc_floor",
@@ -1079,7 +1068,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "island_base_medresearch2" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_thconc_floor",
@@ -1178,7 +1166,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "island_base_medresearch3" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_thconc_floor",
@@ -1277,7 +1264,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "island_base_controlroom1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_thconc_floor",
@@ -1373,7 +1359,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "island_base_controlroom2" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_thconc_floor",
@@ -1469,7 +1454,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "island_base_controlroom3" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_thconc_floor",
@@ -1566,7 +1550,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "island_base_hangar1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_thconc_floor",
@@ -1633,7 +1616,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "island_base_hangar2" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_thconc_floor",
@@ -1700,7 +1682,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "island_base_hangar3" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_thconc_floor",

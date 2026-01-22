@@ -2,7 +2,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_Entrance1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -73,7 +72,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_Entrance2" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -147,7 +145,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_Entrance3" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -223,7 +220,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_Bunker1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -306,7 +302,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_Bunker2" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -404,7 +399,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_Lab1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -496,7 +490,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_Lab2" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -587,7 +580,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_Dump1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -683,7 +675,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_Lockup1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -769,7 +760,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_MedicalMisc1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -860,7 +850,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_Lab3" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -948,7 +937,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_Communicationtower" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -1038,7 +1026,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_Waste1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -1117,7 +1104,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_Waste2" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -1208,7 +1194,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_Basement1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -1302,7 +1287,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_Basement2" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -1391,7 +1375,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_Basement3" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -1479,7 +1462,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_Basement4" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -1567,7 +1549,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_Basement5" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -1655,7 +1636,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_OutsideCamp1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -1746,7 +1726,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_OutsideCamp2" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -1840,7 +1819,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_OutsideCamp3" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -1930,7 +1908,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_OutsideCamp4" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -2020,7 +1997,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_Ovens" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -2105,7 +2081,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_Caves1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -2180,7 +2155,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_Container1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -2237,7 +2211,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_Container2" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -2298,7 +2271,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_Caves2" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",

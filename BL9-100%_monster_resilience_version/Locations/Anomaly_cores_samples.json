@@ -2,7 +2,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_core1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_purple",
@@ -95,7 +94,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_core2" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_purple",
@@ -188,7 +186,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_core3" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_purple",
@@ -281,7 +278,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_core4" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_purple",
@@ -374,7 +370,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_core5" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_purple",
@@ -470,7 +465,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_core61" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_purple",
@@ -563,7 +557,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_core62" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_purple",
@@ -656,7 +649,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_core71" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_purple",
@@ -749,7 +741,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_core72" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_purple",
@@ -842,7 +833,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_core81" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_purple",
@@ -935,7 +925,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_core82" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_purple",
@@ -1028,7 +1017,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_core83" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_purple",
@@ -1121,7 +1109,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_core91" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_purple",
@@ -1214,7 +1201,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_core92" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_purple",
@@ -1307,7 +1293,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_core93" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_purple",

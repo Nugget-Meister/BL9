@@ -1,7 +1,6 @@
 [
   {
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "BL9_library" ],
     "weight": 1000,
     "object": {
@@ -44,7 +43,6 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
     "om_terrain": "BL9_library_roof",
     "object": {
       "fill_ter": "t_flat_roof",
@@ -102,7 +100,6 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
     "om_terrain": [ "BL9_bookstore" ],
     "weight": 3000,
     "object": {
@@ -187,7 +184,6 @@
   },
   {
     "type": "mapgen",
-    "method": "json",
     "om_terrain": "BL9_bookstore_roof",
     "weight": 200,
     "object": {
