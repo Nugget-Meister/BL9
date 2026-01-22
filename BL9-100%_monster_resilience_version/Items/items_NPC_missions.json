@@ -1,7 +1,8 @@
 [
   {
     "id": "BL9_castle_mission_hologram",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "name": { "str": "Hologram Projector - Locator of Castlelan Castle" },
     "description": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Castlelan Castle",
     "weight": "85 g",
@@ -27,7 +28,8 @@
   },
   {
     "id": "BL9_infested_facility_mission_hologram",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "name": { "str": "Hologram Projector - Locator of Infested Facility" },
     "description": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Infested Facility",
     "weight": "85 g",
@@ -53,7 +55,8 @@
   },
   {
     "id": "BL9_island_mission_hologram",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "name": { "str": "Hologram Projector - Locator of Militarized Island" },
     "description": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Militarized Island",
     "weight": "85 g",
@@ -79,7 +82,8 @@
   },
   {
     "id": "BL9_hive_caves_mission_hologram",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "name": { "str": "Hologram Projector - Locator of Guard Tower Hive Caves" },
     "description": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Guard Tower Hive Caves",
     "weight": "85 g",
@@ -105,7 +109,8 @@
   },
   {
     "id": "BL9_underground_ruins_mission_hologram",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "name": { "str": "Hologram Projector - Locator of Guard Tower Underground Ruins" },
     "description": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Guard Tower Underground Ruins",
     "weight": "85 g",
@@ -131,7 +136,8 @@
   },
   {
     "id": "BL9_acidic_caves_mission_hologram",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "name": { "str": "Hologram Projector - Locator of Guard Tower Acidic Caves" },
     "description": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Guard Tower Acidic Caves",
     "weight": "85 g",
@@ -157,7 +163,8 @@
   },
   {
     "id": "BL9_sunken_caves_mission_hologram",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "name": { "str": "Hologram Projector - Locator of Guard Tower Sunken Caves" },
     "description": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Guard Tower Sunken Caves",
     "weight": "85 g",
@@ -183,7 +190,8 @@
   },
   {
     "id": "BL9_molten_caves_mission_hologram",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "name": { "str": "Hologram Projector - Locator of Guard Tower Molten Caves" },
     "description": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Guard Tower Molten Caves",
     "weight": "85 g",
@@ -209,7 +217,8 @@
   },
   {
     "id": "BL9_alliance_base_mission_hologram",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "name": { "str": "Hologram Projector - Locator of Mobile Alliance Base" },
     "description": "This is a hologram projector which generates an interactive hologram when you activate it. Hologram can talk to you, answer some of your questions, but most importantly, it can locate Mobile Alliance Base",
     "weight": "85 g",

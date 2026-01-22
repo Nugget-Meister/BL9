@@ -2,7 +2,8 @@
   {
     "id": "BL9_sample",
     "looks_like": "slime_scrap",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "category": "other",
     "name": { "str": "BL9 Sample", "str_pl": "BL9 Samples" },
     "description": "An organism sample of a very strange and unknown origin, as you touch it you can clearly feel how it's vibrating, moving, as if it's particles are constantly communicating with each other",
@@ -21,7 +22,8 @@
   {
     "id": "BL9_sample_mk2",
     "looks_like": "slime_scrap",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "category": "other",
     "name": { "str": "BL9 Sample MK ii", "str_pl": "BL9 Samples MK ii" },
     "description": "An organism sample of a very strange and unknown origin, as you touch it you can clearly see how it's changing it's color, shifting from one unknown state of matter to another as if modified by an alien technology",
@@ -40,7 +42,8 @@
   {
     "id": "BL9_sample_mk3",
     "looks_like": "slime_scrap",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "category": "other",
     "name": { "str": "BL9 Sample MK iii", "str_pl": "BL9 Samples MK iii" },
     "description": "An organism sample of a very strange and unknown origin, as you touch it you can clearly feel how it's vibrating, moving, it's particles are constantly reshaping and shifting, as if commanding each other",
@@ -59,7 +62,8 @@
   {
     "id": "BL9_sample_mk4",
     "looks_like": "slime_scrap",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "category": "other",
     "name": { "str": "BL9 Sample MK iv", "str_pl": "BL9 Samples MK iv" },
     "description": "An organism sample of a very strange and unknown origin, as you touch it you can clearly see how it's swiftly changing it's colors, emitting vibrant rays of light, changing from one unknown state of matter to another, as if it was created by an alien technology",
@@ -77,7 +81,8 @@
   },
   {
     "id": "goldcoin",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "category": "other",
     "name": { "str": "Gold Coin", "str_pl": "Gold Coins" },
     "description": "A well-made, seemingly handcrafted gold coin. Its one side is adorned in astounding etched decorations, and the other shows an image of a bust of some seemingly Roman Emperor with text below it written in Latin 'Labor omnia vincit'.",
@@ -97,7 +102,8 @@
   {
     "id": "goldcoincomb",
     "looks_like": "goldcoin",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "category": "other",
     "name": { "str": "Gold Coin Combination", "str_pl": "Gold Coin Combinations" },
     "description": "A combination of well-made, seemingly handcrafted gold coins. Its one side is adorned in astounding etched decorations, and the other shows an image of a bust of some seemingly Roman Emperor with text below it written in Latin 'Labor omnia vincit'.",
@@ -116,7 +122,8 @@
   },
   {
     "id": "tenvamiuncoin",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "category": "other",
     "name": { "str": "Tenvamiun Coin", "str_pl": "Tenvamiun Coins" },
     "description": "A tenvamiun coin",
@@ -135,7 +142,8 @@
   },
   {
     "id": "tenvamiuncoincomb",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "category": "other",
     "name": { "str": "Tenvamiun Coin Combination", "str_pl": "Tenvamiun Coin Combinations" },
     "description": "A combination of tenvamiun coins",
@@ -154,7 +162,8 @@
   },
   {
     "id": "platcoin",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "category": "other",
     "name": { "str": "Platinum Coin", "str_pl": "Platinum Coins" },
     "description": "A well-made, seemingly handcrafted platinum coin. Its one side is adorned in astounding etched decorations, and the other shows an image of a portrait of some seemingly president with text below 'Strive to have values, not just success, success is temporary, values are eternal'.",
@@ -174,7 +183,8 @@
   {
     "id": "platcoincomb",
     "looks_like": "platcoin",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "category": "other",
     "name": { "str": "Platinum Coin Combination", "str_pl": "Platinum Coin Combinations" },
     "description": "A combination of well-made, seemingly handcrafted platinum coins. Its one side is adorned in astounding etched decorations, and the other shows an image of a portrait of some seemingly president with text below 'Strive to have values, not just success, success is temporary, values are eternal'.",
@@ -193,7 +203,8 @@
   },
   {
     "id": "hylinviuncoin",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "category": "other",
     "name": { "str": "Hylinviun Coin", "str_pl": "Hylinviun Coins" },
     "description": "A hylinviun coin",
@@ -212,7 +223,8 @@
   },
   {
     "id": "hylinviuncoincomb",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "category": "other",
     "name": { "str": "Hylinviun Coin Combination", "str_pl": "Hylinviun Coin Combinations" },
     "description": "A combination of hylinviun coins",
@@ -232,7 +244,8 @@
   {
     "id": "9mmBL9",
     "looks_like": "9mm",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "9mm BL9" },
     "description": "Manually and clumsily soldered pieces of steel with BL9 samples, somehow the BL9 knows what form to take in order to encase the piece of steel in such a great manner to form a 9mm caliber handmade bullet",
     "weight": "7 g",
@@ -256,7 +269,8 @@
   {
     "id": "9mmBL9mk2",
     "looks_like": "9mm",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "9mm BL9 MK ii" },
     "description": "Manually and clumsily soldered pieces of steel with BL9 samples, somehow the BL9 knows what form to take in order to encase the piece of steel in such a great manner to form a stronger 9mm caliber handmade bullet",
     "weight": "7 g",
@@ -280,7 +294,8 @@
   {
     "id": "9mmBL9mk3",
     "looks_like": "9mm",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "9mm BL9 MK iii" },
     "description": "Manually and clumsily soldered pieces of steel with BL9 samples, somehow the BL9 knows what form to take in order to encase the piece of steel in such a great manner to form an incredibly destructive and strong 9mm caliber handmade bullet",
     "weight": "7 g",
@@ -304,7 +319,8 @@
   {
     "id": "9mmBL9smg",
     "looks_like": "9mm",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "9mm smg BL9" },
     "description": "Manually and clumsily soldered pieces of steel with BL9 samples, somehow the BL9 knows what form to take in order to encase the piece of steel in such a great manner to form a 9mm smg caliber handmade bullet",
     "weight": "7 g",
@@ -328,7 +344,8 @@
   {
     "id": "9mmBL9smgmk2",
     "looks_like": "9mm",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "9mm MK ii smg BL9" },
     "description": "Manually and clumsily soldered pieces of steel with BL9 samples, somehow the BL9 knows what form to take in order to encase the piece of steel in such a great manner to form a stronger 9mm smg caliber handmade bullet",
     "weight": "7 g",
@@ -352,7 +369,8 @@
   {
     "id": "9mmBL9smgmk3",
     "looks_like": "9mm",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "9mm MK iii smg BL9" },
     "description": "Manually and clumsily soldered pieces of steel with BL9 samples, somehow the BL9 knows what form to take in order to encase the piece of steel in such a great manner to form an incredibly destructive and strong 9mm smg caliber handmade bullet",
     "weight": "7 g",
@@ -376,7 +394,8 @@
   {
     "id": "308BL9",
     "looks_like": "308",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": ".308 BL9" },
     "description": "Manually and clumsily soldered pieces of steel with BL9 samples, somehow the BL9 knows what form to take in order to encase the piece of steel in such a great manner to form a 308 caliber handmade bullet",
     "weight": "18 g",
@@ -400,7 +419,8 @@
   {
     "id": "308BL9mk2",
     "looks_like": "308",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": ".308 MK ii BL9" },
     "description": "Manually and clumsily soldered pieces of steel with BL9 samples, somehow the BL9 knows what form to take in order to encase the piece of steel in such a great manner to form a stronger 308 caliber handmade bullet",
     "weight": "18 g",
@@ -424,7 +444,8 @@
   {
     "id": "308BL9mk3",
     "looks_like": "308",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": ".308 MK iii BL9" },
     "description": "Manually and clumsily soldered pieces of steel with BL9 samples, somehow the BL9 knows what form to take in order to encase the piece of steel in such a great manner to form an incredibly destructive and strong 308 caliber handmade bullet",
     "weight": "18 g",
@@ -448,7 +469,8 @@
   {
     "id": "BL9shot",
     "looks_like": "shot_00",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 shot" },
     "description": "Manually and clumsily soldered pieces of steel with BL9 samples, somehow the BL9 knows what form to take in order to encase the piece of steel in such a great manner to form a handmade shell",
     "weight": "32 g",
@@ -472,7 +494,8 @@
   {
     "id": "BL9shotmk2",
     "looks_like": "shot_00",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 shot MK ii" },
     "description": "Manually and clumsily soldered pieces of steel with BL9 samples, somehow the BL9 knows what form to take in order to encase the piece of steel in such a great manner to form a stronger handmade shell",
     "weight": "32 g",
@@ -496,7 +519,8 @@
   {
     "id": "BL9shotmk3",
     "looks_like": "shot_00",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 shot MK iii" },
     "description": "Manually and clumsily soldered pieces of steel with BL9 samples, somehow the BL9 knows what form to take in order to encase the piece of steel in such a great manner to form an incredibly destructive and strong handmade shell",
     "weight": "32 g",
@@ -520,7 +544,8 @@
   {
     "id": "357magBL9",
     "looks_like": "357mag_fmj",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": ".357 magnum BL9" },
     "description": "Manually and clumsily soldered pieces of steel with BL9 samples, somehow the BL9 knows what form to take in order to encase the piece of steel in such a great manner to form a 357mag caliber handmade bullet",
     "weight": "8 g",
@@ -544,7 +569,8 @@
   {
     "id": "357magBL9mk2",
     "looks_like": "357mag_fmj",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": ".357 magnum BL9 MK ii" },
     "description": "Manually and clumsily soldered pieces of steel with BL9 samples, somehow the BL9 knows what form to take in order to encase the piece of steel in such a great manner to form a stronger 357mag caliber handmade bullet",
     "weight": "8 g",
@@ -568,7 +594,8 @@
   {
     "id": "357magBL9mk3",
     "looks_like": "357mag_fmj",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": ".357 magnum BL9 MK iii" },
     "description": "Manually and clumsily soldered pieces of steel with BL9 samples, somehow the BL9 knows what form to take in order to encase the piece of steel in such a great manner to form an incredibly destructive and strong 357mag caliber handmade bullet",
     "weight": "8 g",
@@ -592,7 +619,8 @@
   {
     "id": "556BL9",
     "looks_like": "556",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "5.56 BL9" },
     "description": "Manually and clumsily soldered pieces of steel with BL9 samples, somehow the BL9 knows what form to take in order to encase the piece of steel in such a great manner to form a 5.56 caliber handmade bullet",
     "weight": "12 g",
@@ -616,7 +644,8 @@
   {
     "id": "556BL9mk2",
     "looks_like": "556",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "5.56 BL9 MK ii" },
     "description": "Manually and clumsily soldered pieces of steel with BL9 samples, somehow the BL9 knows what form to take in order to encase the piece of steel in such a great manner to form a stronger 5.56 caliber handmade bullet",
     "weight": "12 g",
@@ -640,7 +669,8 @@
   {
     "id": "556BL9mk3",
     "looks_like": "556",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "5.56 BL9 MK iii" },
     "description": "Manually and clumsily soldered pieces of steel with BL9 samples, somehow the BL9 knows what form to take in order to encase the piece of steel in such a great manner to form an incredibly destructive and strong 5.56 caliber handmade bullet",
     "weight": "12 g",
@@ -664,7 +694,8 @@
   {
     "id": "BL9_spray",
     "looks_like": "acid",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 spray" },
     "description": "It seems to take a form of a very strange looking gray acidic liquid that bubbles and splashes by itself inside of any container it is put in, corrosive and dangerous",
     "weight": "1 g",
@@ -686,7 +717,8 @@
   {
     "id": "BL9_melting_spray",
     "looks_like": "flamethrower_fuel",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 melting spray" },
     "description": "It seems to take a form of a very strange looking yellow magmatic liquid that bubbles and splashes by itself inside of any container it is put in, fiery and dangerous",
     "weight": "1 g",
@@ -708,7 +740,8 @@
   {
     "id": "BL9_spraymk2",
     "looks_like": "acid",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 spray MK ii" },
     "description": "It seems to take a form of a very strange looking white acidic liquid that bubbles and splashes by itself inside of any container it is put in, extremely corrosive and dangerous",
     "weight": "1 g",
@@ -730,7 +763,8 @@
   {
     "id": "BL9_melting_spraymk2",
     "looks_like": "flamethrower_fuel",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 melting spray MK ii" },
     "description": "It seems to take a form of a very strange looking orange magmatic liquid that bubbles and splashes by itself inside of any container it is put in, extremely fiery and dangerous",
     "weight": "1 g",
@@ -752,7 +786,8 @@
   {
     "id": "BL9_spraymk3",
     "looks_like": "acid",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 spray MK iii" },
     "description": "It seems to take a form of a very strange looking white acidic liquid that bubbles and splashes by itself inside of any container it is put in, entirely acidic, extremely corrosive and dangerous beyond one's imagination",
     "weight": "1 g",
@@ -774,7 +809,8 @@
   {
     "id": "BL9_melting_spraymk3",
     "looks_like": "flamethrower_fuel",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 melting spray MK iii" },
     "description": "It seems to take a form of a very strange looking orange magmatic liquid that bubbles and splashes by itself inside of any container it is put in, entirely magmatic, extremely fiery and dangerous beyond one's imagination",
     "weight": "1 g",
@@ -796,7 +832,8 @@
   {
     "id": "railBL9",
     "looks_like": "steel_rail",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9-infused rail" },
     "description": "Manually and clumsily soldered steel rails with BL9 samples, somehow the BL9 knows what form to take in order to encase the piece of steel in such a great manner to form a handmade rail",
     "weight": "30 g",
@@ -818,7 +855,8 @@
   {
     "id": "railBL9mk2",
     "looks_like": "steel_rail",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9-infused rail MK ii" },
     "description": "Manually and clumsily soldered steel rails with BL9 samples, somehow the BL9 knows what form to take in order to encase the piece of steel in such a great manner to form a stronger handmade rail",
     "weight": "30 g",
@@ -840,7 +878,8 @@
   {
     "id": "railBL9mk3",
     "looks_like": "steel_rail",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9-infused rail MK iii" },
     "description": "Manually and clumsily soldered steel rails with BL9 samples, somehow the BL9 knows what form to take in order to encase the piece of steel in such a great manner to form an incredibly destructive and strong handmade rail",
     "weight": "30 g",
@@ -860,7 +899,8 @@
     "effects": [ "COOKOFF", "LARGE_BEANBAG" ]
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "id": "BL9_arrow",
     "looks_like": "arrow_metal",
     "price": "12 USD",
@@ -883,7 +923,8 @@
     "recovery_chance": 98
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "id": "BL9_bolt",
     "looks_like": "bolt_metal",
     "price": "5 USD",
@@ -906,7 +947,8 @@
     "recovery_chance": 98
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "id": "BL9_arrowmk2",
     "looks_like": "arrow_metal",
     "price": "12 USD",
@@ -929,7 +971,8 @@
     "recovery_chance": 98
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "id": "BL9_boltmk2",
     "looks_like": "bolt_metal",
     "price": "5 USD",
@@ -952,7 +995,8 @@
     "recovery_chance": 98
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "id": "BL9_arrowmk3",
     "looks_like": "arrow_metal",
     "price": "12 USD",
@@ -975,7 +1019,8 @@
     "recovery_chance": 98
   },
   {
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "id": "BL9_boltmk3",
     "looks_like": "bolt_metal",
     "price": "5 USD",
@@ -1000,7 +1045,8 @@
   {
     "id": "40mmBL9",
     "looks_like": "40x46mm_m433",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "40mm BL9" },
     "description": "Manually and clumsily soldered pieces of steel with unstable BL9 samples, somehow the BL9 knows what form to take in order to encase the piece of steel in such a great manner to form a dangerous explosive handmade bomblet",
     "weight": "80 g",
@@ -1021,7 +1067,8 @@
   {
     "id": "40mmBL9mk2",
     "looks_like": "40x46mm_m433",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "40mm BL9 MK ii" },
     "description": "Manually and clumsily soldered pieces of steel with very unstable BL9 samples, somehow the BL9 knows what form to take in order to encase the piece of steel in such a great manner to form a very dangerous explosive handmade bomblet",
     "weight": "145 g",
@@ -1042,7 +1089,8 @@
   {
     "id": "40mmBL9mk3",
     "looks_like": "40x46mm_m433",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "40mm BL9 MK iii" },
     "description": "Manually and clumsily soldered pieces of steel with very unstable BL9 samples, somehow the BL9 knows what form to take in order to encase the piece of steel in such a great manner to form an elaborately, in a clever way even, made a big, very dangerous explosive handmade 40mm megabomblet",
     "weight": "275 g",
@@ -1063,7 +1111,8 @@
   {
     "id": "stunammoBL9",
     "looks_like": "slime_scrap",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 stun ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 stun weapons",
     "weight": "5 g",
@@ -1086,7 +1135,8 @@
   {
     "id": "laserblasterammoBL9",
     "looks_like": "9mm",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 laser blaster ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental laser blaster",
     "weight": "5 g",
@@ -1109,7 +1159,8 @@
   {
     "id": "lasercasterammoBL9",
     "looks_like": "308",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 laser caster ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental laser caster",
     "weight": "15 g",
@@ -1132,7 +1183,8 @@
   {
     "id": "laserrifleammoBL9",
     "looks_like": "556",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 laser rifle ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental laser rifle",
     "weight": "10 g",
@@ -1155,7 +1207,8 @@
   {
     "id": "lasercannonammoBL9",
     "looks_like": "40x46mm_m433",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 laser cannon ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental laser cannon",
     "weight": "45 g",
@@ -1178,7 +1231,8 @@
   {
     "id": "plasmablasterammoBL9",
     "looks_like": "9mm",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 plasma blaster ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental plasma blaster",
     "weight": "5 g",
@@ -1201,7 +1255,8 @@
   {
     "id": "plasmacasterammoBL9",
     "looks_like": "308",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 plasma caster ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental plasma caster",
     "weight": "15 g",
@@ -1224,7 +1279,8 @@
   {
     "id": "plasmarifleammoBL9",
     "looks_like": "556",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 plasma rifle ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental plasma rifle",
     "weight": "10 g",
@@ -1247,7 +1303,8 @@
   {
     "id": "plasmacannonammoBL9",
     "looks_like": "40x46mm_m433",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 plasma cannon ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental plasma cannon",
     "weight": "45 g",
@@ -1270,7 +1327,8 @@
   {
     "id": "electricblasterammoBL9",
     "looks_like": "9mm",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 electric blaster ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental electric blaster",
     "weight": "5 g",
@@ -1293,7 +1351,8 @@
   {
     "id": "electriccasterammoBL9",
     "looks_like": "308",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 electric caster ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental electric caster",
     "weight": "15 g",
@@ -1316,7 +1375,8 @@
   {
     "id": "electricrifleammoBL9",
     "looks_like": "556",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 electric rifle ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental electric rifle",
     "weight": "10 g",
@@ -1339,7 +1399,8 @@
   {
     "id": "electriccannonammoBL9",
     "looks_like": "40x46mm_m433",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 electric cannon ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental electric cannon",
     "weight": "45 g",
@@ -1370,7 +1431,8 @@
   {
     "id": "acidblasterammoBL9",
     "looks_like": "9mm",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 acid blaster ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental acid blaster",
     "weight": "5 g",
@@ -1393,7 +1455,8 @@
   {
     "id": "acidcasterammoBL9",
     "looks_like": "308",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 acid caster ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental acid caster",
     "weight": "15 g",
@@ -1416,7 +1479,8 @@
   {
     "id": "acidrifleammoBL9",
     "looks_like": "556",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 acid rifle ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental acid rifle",
     "weight": "10 g",
@@ -1439,7 +1503,8 @@
   {
     "id": "acidcannonammoBL9",
     "looks_like": "40x46mm_m433",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 acid cannon ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental acid cannon",
     "weight": "45 g",
@@ -1470,7 +1535,8 @@
   {
     "id": "laserblasterammomk2BL9",
     "looks_like": "9mm",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 laser blaster MK ii ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental MK ii laser blaster",
     "weight": "5 g",
@@ -1493,7 +1559,8 @@
   {
     "id": "lasercasterammomk2BL9",
     "looks_like": "308",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 laser caster MK ii ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental MK ii laser caster",
     "weight": "15 g",
@@ -1516,7 +1583,8 @@
   {
     "id": "laserrifleammomk2BL9",
     "looks_like": "556",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 laser rifle MK ii ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental MK ii laser rifle",
     "weight": "10 g",
@@ -1539,7 +1607,8 @@
   {
     "id": "lasercannonammomk2BL9",
     "looks_like": "40x46mm_m433",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 laser cannon MK ii ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental MK ii laser cannon",
     "weight": "45 g",
@@ -1562,7 +1631,8 @@
   {
     "id": "plasmablasterammomk2BL9",
     "looks_like": "9mm",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 plasma blaster MK ii ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental MK ii plasma blaster",
     "weight": "5 g",
@@ -1585,7 +1655,8 @@
   {
     "id": "plasmacasterammomk2BL9",
     "looks_like": "308",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 plasma caster MK ii ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental MK ii plasma caster",
     "weight": "15 g",
@@ -1608,7 +1679,8 @@
   {
     "id": "plasmarifleammomk2BL9",
     "looks_like": "556",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 plasma rifle MK ii ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental MK ii plasma rifle",
     "weight": "10 g",
@@ -1631,7 +1703,8 @@
   {
     "id": "plasmacannonammomk2BL9",
     "looks_like": "40x46mm_m433",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 plasma cannon MK ii ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental MK ii plasma cannon",
     "weight": "45 g",
@@ -1654,7 +1727,8 @@
   {
     "id": "electricblasterammomk2BL9",
     "looks_like": "9mm",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 electric blaster MK ii ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental MK ii electric blaster",
     "weight": "5 g",
@@ -1677,7 +1751,8 @@
   {
     "id": "electriccasterammomk2BL9",
     "looks_like": "308",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 electric caster MK ii ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental MK ii electric caster",
     "weight": "15 g",
@@ -1700,7 +1775,8 @@
   {
     "id": "electricrifleammomk2BL9",
     "looks_like": "556",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 electric rifle MK ii ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental MK ii electric rifle",
     "weight": "10 g",
@@ -1723,7 +1799,8 @@
   {
     "id": "electriccannonammomk2BL9",
     "looks_like": "40x46mm_m433",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 electric cannon MK ii ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental MK ii electric cannon",
     "weight": "45 g",
@@ -1754,7 +1831,8 @@
   {
     "id": "acidblasterammomk2BL9",
     "looks_like": "9mm",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 acid blaster MK ii ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental MK ii acid blaster",
     "weight": "5 g",
@@ -1777,7 +1855,8 @@
   {
     "id": "acidcasterammomk2BL9",
     "looks_like": "308",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 acid caster MK ii ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental MK ii acid caster",
     "weight": "15 g",
@@ -1800,7 +1879,8 @@
   {
     "id": "acidrifleammomk2BL9",
     "looks_like": "556",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 acid rifle MK ii ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental MK ii acid rifle",
     "weight": "10 g",
@@ -1823,7 +1903,8 @@
   {
     "id": "acidcannonammomk2BL9",
     "looks_like": "40x46mm_m433",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 acid cannon MK ii ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental MK ii acid cannon",
     "weight": "45 g",
@@ -1854,7 +1935,8 @@
   {
     "id": "laserblasterammomk3BL9",
     "looks_like": "9mm",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 laser blaster MK iii ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental MK iii laser blaster",
     "weight": "5 g",
@@ -1877,7 +1959,8 @@
   {
     "id": "lasercasterammomk3BL9",
     "looks_like": "308",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 laser caster MK iii ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental MK iii laser caster",
     "weight": "15 g",
@@ -1900,7 +1983,8 @@
   {
     "id": "laserrifleammomk3BL9",
     "looks_like": "556",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 laser rifle MK iii ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental MK iii laser rifle",
     "weight": "10 g",
@@ -1923,7 +2007,8 @@
   {
     "id": "lasercannonammomk3BL9",
     "looks_like": "40x46mm_m433",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 laser cannon MK iii ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental MK iii laser cannon",
     "weight": "45 g",
@@ -1946,7 +2031,8 @@
   {
     "id": "plasmablasterammomk3BL9",
     "looks_like": "9mm",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 plasma blaster MK iii ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental MK iii plasma blaster",
     "weight": "5 g",
@@ -1969,7 +2055,8 @@
   {
     "id": "plasmacasterammomk3BL9",
     "looks_like": "308",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 plasma caster MK iii ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental MK iii plasma caster",
     "weight": "15 g",
@@ -1992,7 +2079,8 @@
   {
     "id": "plasmarifleammomk3BL9",
     "looks_like": "556",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 plasma rifle MK iii ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental MK iii plasma rifle",
     "weight": "10 g",
@@ -2015,7 +2103,8 @@
   {
     "id": "plasmacannonammomk3BL9",
     "looks_like": "40x46mm_m433",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 plasma cannon MK iii ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental MK iii plasma cannon",
     "weight": "45 g",
@@ -2038,7 +2127,8 @@
   {
     "id": "electricblasterammomk3BL9",
     "looks_like": "9mm",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 electric blaster MK iii ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental MK iii electric blaster",
     "weight": "5 g",
@@ -2061,7 +2151,8 @@
   {
     "id": "electriccasterammomk3BL9",
     "looks_like": "308",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 electric caster MK iii ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental MK iii electric caster",
     "weight": "15 g",
@@ -2084,7 +2175,8 @@
   {
     "id": "electricrifleammomk3BL9",
     "looks_like": "556",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 electric rifle MK iii ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental MK iii electric rifle",
     "weight": "10 g",
@@ -2107,7 +2199,8 @@
   {
     "id": "electriccannonammomk3BL9",
     "looks_like": "40x46mm_m433",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 electric cannon MK iii ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental MK iii electric cannon",
     "weight": "45 g",
@@ -2138,7 +2231,8 @@
   {
     "id": "acidblasterammomk3BL9",
     "looks_like": "9mm",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 acid blaster MK iii ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental MK iii acid blaster",
     "weight": "5 g",
@@ -2161,7 +2255,8 @@
   {
     "id": "acidcasterammomk3BL9",
     "looks_like": "308",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 acid caster MK iii ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental MK iii acid caster",
     "weight": "15 g",
@@ -2184,7 +2279,8 @@
   {
     "id": "acidrifleammomk3BL9",
     "looks_like": "556",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 acid rifle MK iii ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental MK iii acid rifle",
     "weight": "10 g",
@@ -2207,7 +2303,8 @@
   {
     "id": "acidcannonammomk3BL9",
     "looks_like": "40x46mm_m433",
-    "type": "AMMO",
+    "type": "ITEM",
+    "subtypes": ["AMMO"],
     "name": { "str": "BL9 acid cannon MK iii ammo" },
     "description": "BL9 samples, as you know now, their physical and chemical structure can change based on user preferences, this regular BL9 sample has turned into an ammo for BL9 experimental MK iii acid cannon",
     "weight": "45 g",
