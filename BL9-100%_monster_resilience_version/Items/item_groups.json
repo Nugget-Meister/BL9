@@ -414,7 +414,6 @@
       [ "lemonade", 75 ],
       [ "energy_drink", 75 ],
       [ "energy_drink_atomic", 75 ],
-      { "group": "softdrinks_canned", "prob": 75 },
       { "item": "cola", "prob": 75, "container-item": "bottle_plastic" },
       { "item": "rootbeer", "prob": 75, "container-item": "bottle_plastic" },
       { "item": "creamsoda", "prob": 75, "container-item": "bottle_plastic" },
@@ -538,7 +537,7 @@
       { "group": "chem_home", "prob": 15 },
       { "group": "tools_lighting", "prob": 15 },
       { "group": "electronics", "prob": 15 },
-      { "group": "military", "prob": 10 },
+      { "group": "remains_soldier", "prob": 10 },
       { "group": "science", "prob": 5 },
       { "group": "tools_robotics", "prob": 10 }
     ]
@@ -1445,12 +1444,12 @@
     "entries": [ { "item": "BL9_davran_journal5", "prob": 35 }, { "item": "BL9_subject5_journal2", "prob": 35 } ]
   },
   {
-    "id": "office_paper",
-    "copy-from": "office_paper",
+    "id": "SUS_office_supplies",
+    "copy-from": "SUS_office_supplies",
     "type": "item_group",
     "subtype": "collection",
     "//": "Random paper/data items. for filing cabinets or other office locations",
-    "extend": { "items": [ { "item": "BL9_trader_transmitter", "prob": 68 } ] }
+    "extend": { "items": [ { "item": "BL9_trader_transmitter", "prob": 1 } ] }
   },
   {
     "id": "SUS_office_filing_cabinet",
@@ -1467,15 +1466,6 @@
     "type": "item_group",
     "subtype": "collection",
     "extend": { "groups": [ [ "BL9_whereabouts_journal", 15 ] ] }
-  },
-  {
-    "type": "item_group",
-    "id": "rare",
-    "copy-from": "rare",
-    "//": "Items that should have very low frequencies and or few locations.",
-    "magazine": 100,
-    "subtype": "distribution",
-    "extend": { "entries": [ { "group": "BL9_whereabouts_journal", "prob": 30 } ] }
   },
   {
     "id": "exotic_books",
