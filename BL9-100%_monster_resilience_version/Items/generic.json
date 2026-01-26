@@ -1,7 +1,7 @@
 [
   {
     "id": "BL9_chunk",
-    "type": "GENERIC",
+    "type": "ITEM",
     "category": "spare_parts",
     "name": { "str": "BL9 chunk" },
     "description": "BL9 chunk",
@@ -16,7 +16,7 @@
   },
   {
     "id": "BL9_chunkmk2",
-    "type": "GENERIC",
+    "type": "ITEM",
     "category": "spare_parts",
     "name": { "str": "BL9 chunk MK ii" },
     "description": "BL9 chunk MK ii",
@@ -32,7 +32,7 @@
   {
     "id": "BL9_tendril_blade_sample",
     "looks_like": "mutagen_alpha",
-    "type": "GENERIC",
+    "type": "ITEM",
     "category": "spare_parts",
     "name": { "str": "BL9 tendril blade sample" },
     "description": "Remains of BL9 that took a form of a blade-like tendril, it's possible to craft BL9-tendril sword with this",
@@ -48,7 +48,7 @@
   {
     "id": "BL9_worm_body_sample",
     "looks_like": "mutagen_alpha",
-    "type": "GENERIC",
+    "type": "ITEM",
     "category": "spare_parts",
     "name": { "str": "BL9 worm body sample" },
     "description": "Remains of BL9 that took a form of a stretching worm-like organism, it's possible to craft BL9-worm whip with this",
@@ -64,7 +64,7 @@
   {
     "id": "BL9_clawer_sample",
     "looks_like": "mutagen_alpha",
-    "type": "GENERIC",
+    "type": "ITEM",
     "category": "spare_parts",
     "name": { "str": "BL9 Blind Clawer sample" },
     "description": "BL9 sample infused with remains of broken mechanical claws, it's possible to craft BL9-infused claws with this",
@@ -80,7 +80,7 @@
   {
     "id": "BL9_repto_sample",
     "looks_like": "mutagen_alpha",
-    "type": "GENERIC",
+    "type": "ITEM",
     "category": "spare_parts",
     "name": { "str": "BL9 Repto claw sample" },
     "description": "BL9 sample infused with remains of Repto's giant claw, it's possible to craft BL9 Repto spear with this",
@@ -96,7 +96,7 @@
   {
     "id": "BL9_spindly_spike_sample",
     "looks_like": "mutagen_alpha",
-    "type": "GENERIC",
+    "type": "ITEM",
     "category": "spare_parts",
     "name": { "str": "BL9 spindly spike sample" },
     "description": "Remains of BL9 samples that took a form of a spindly spiked parasitem, it's possible to craft BL9-spike sword with this",
@@ -112,7 +112,7 @@
   {
     "id": "BL9_assassin_tail_sample",
     "looks_like": "mutagen_alpha",
-    "type": "GENERIC",
+    "type": "ITEM",
     "category": "spare_parts",
     "name": { "str": "BL9 Assassin tail sample" },
     "description": "Remains of BL9 Assassin's samples infused with his sharp tail, it's possible to craft BL9 tail whip with this",
@@ -128,7 +128,7 @@
   {
     "id": "BL9_twisted_tentacle_sample",
     "looks_like": "mutagen_alpha",
-    "type": "GENERIC",
+    "type": "ITEM",
     "category": "spare_parts",
     "name": { "str": "BL9 Twisted One tentacle sample" },
     "description": "Remains of BL9 Twisted One's samples infused with whatever is left of his tentacles, it's possible to craft BL9-tentacle axe with this",
@@ -144,7 +144,7 @@
   {
     "id": "BL9_bladed_tentacle_sample",
     "looks_like": "mutagen_alpha",
-    "type": "GENERIC",
+    "type": "ITEM",
     "category": "spare_parts",
     "name": { "str": "BL9 bladed tentacle sample" },
     "description": "Remains of BL9 tentacles samples that took a form of a sharp blade, it's possible to craft BL9 bladed tentacle claws with this",
@@ -160,7 +160,7 @@
   {
     "id": "BL9_worm_spiked_sample",
     "looks_like": "mutagen_alpha",
-    "type": "GENERIC",
+    "type": "ITEM",
     "category": "spare_parts",
     "name": { "str": "BL9 spiked worm sample" },
     "description": "Remains of BL9 samples that took a form of a spiked worm-like parasite, it's possible to craft BL9-worm spiked polearm with this",
@@ -176,7 +176,7 @@
   {
     "id": "BL9_spiked_tentacle_sample",
     "looks_like": "mutagen_alpha",
-    "type": "GENERIC",
+    "type": "ITEM",
     "category": "spare_parts",
     "name": { "str": "BL9 spiked tentacle sample" },
     "description": "Remains of BL9 samples that took a form of a spiked tentacle, it's possible to craft BL9-tentacle spiked flail with this",
@@ -192,7 +192,7 @@
   {
     "id": "BL9_repto_evo_sample",
     "looks_like": "mutagen_alpha",
-    "type": "GENERIC",
+    "type": "ITEM",
     "category": "spare_parts",
     "name": { "str": "BL9 evolved Repto sample" },
     "description": "BL9 sample infused with remains of evolved Repto's astoundingly enormous claw, it's possible to craft BL9 evolved Repto spear with this",
@@ -208,7 +208,7 @@
   {
     "id": "BL9_chimera_pincer_sample",
     "looks_like": "mutagen_alpha",
-    "type": "GENERIC",
+    "type": "ITEM",
     "category": "spare_parts",
     "name": { "str": "BL9 Chimera pincer sample" },
     "description": "Remains of BL9 Chimera's samples that took a form of a deadly mouth with a giant pincer, it's possible to craft BL9-pincer sword with this",
@@ -224,7 +224,7 @@
   {
     "id": "BL9_evo_claws_sample",
     "looks_like": "mutagen_alpha",
-    "type": "GENERIC",
+    "type": "ITEM",
     "category": "spare_parts",
     "name": { "str": "BL9 evolved claws sample" },
     "description": "Remains of BL9 samples that took a form of huge fan-like claws, it's possible to craft BL9 evolved claws with this",
@@ -240,7 +240,7 @@
   {
     "id": "BL9_vile_leg_sample",
     "looks_like": "mutagen_alpha",
-    "type": "GENERIC",
+    "type": "ITEM",
     "category": "spare_parts",
     "name": { "str": "BL9 Vile One sample" },
     "description": "Remains of BL9 Vile One's samples that took a form of a giant spiked crustacean leg, it's possible to craft BL9 spiked sledgehammer with this",
@@ -256,7 +256,7 @@
   {
     "id": "BL9_commander_sample",
     "looks_like": "mutagen_alpha",
-    "type": "GENERIC",
+    "type": "ITEM",
     "category": "spare_parts",
     "name": { "str": "BL9 Commander Sample" },
     "description": "An organism sample of a very strange and unknown origin, as you touch it you can clearly feel how it's vibrating, moving more wildly than the ordinary samples, it seems like common samples around it move and act in accordance with the 'waves' that it sends to them, you need to bring this to BL9 Research Base",
@@ -271,7 +271,7 @@
   },
   {
     "id": "BL9_manhack_chassis_gold_mk1",
-    "type": "GENERIC",
+    "type": "ITEM",
     "category": "spare_parts",
     "name": { "str": "5Gcomb packaged with BL9 Manhack Chassis" },
     "description": "BL9 Manhack chassis made out of steel that is packaged with gold coins, Strange Merchant says that in exchange for this thing which you have crafted he will make an actual BL9 controlled manhack which can protect you",
@@ -286,7 +286,7 @@
   },
   {
     "id": "BL9_manhack_chassis_plat_mk1",
-    "type": "GENERIC",
+    "type": "ITEM",
     "category": "spare_parts",
     "name": { "str": "3Pcomb packaged with BL9 Manhack Chassis" },
     "description": "BL9 Manhack chassis made out of steel that is packaged with platinum coins, Strange Merchant says that in exchange for this thing which you have crafted he will make an actual BL9 controlled manhack which can protect you",
@@ -301,7 +301,7 @@
   },
   {
     "id": "BL9_ugv_chassis_gold_mk1",
-    "type": "GENERIC",
+    "type": "ITEM",
     "category": "spare_parts",
     "name": { "str": "5Gcomb packaged with BL9 UGV Chassis" },
     "description": "BL9 UGV chassis made out of steel that is packaged with gold coins, Strange Merchant says that in exchange for this thing which you have crafted he will make an actual BL9 controlled UGV which can protect you",
@@ -316,7 +316,7 @@
   },
   {
     "id": "BL9_ugv_chassis_plat_mk1",
-    "type": "GENERIC",
+    "type": "ITEM",
     "category": "spare_parts",
     "name": { "str": "3Pcomb packaged with BL9 UGV Chassis" },
     "description": "BL9 UGV chassis made out of steel that is packaged with platinum coins, Strange Merchant says that in exchange for this thing which you have crafted he will make an actual BL9 controlled UGV which can protect you",
@@ -331,7 +331,7 @@
   },
   {
     "id": "BL9_manhack_chassis_gold_mk2",
-    "type": "GENERIC",
+    "type": "ITEM",
     "category": "spare_parts",
     "name": { "str": "8Gcomb packaged with BL9 Manhack Chassis" },
     "description": "BL9 Manhack chassis made out of steel that is packaged with gold coins, Strange Merchant says that in exchange for this thing which you have crafted he will make an actual BL9 controlled manhack which can protect you",
@@ -346,7 +346,7 @@
   },
   {
     "id": "BL9_manhack_chassis_plat_mk2",
-    "type": "GENERIC",
+    "type": "ITEM",
     "category": "spare_parts",
     "name": { "str": "5Pcomb packaged with BL9 Manhack Chassis" },
     "description": "BL9 Manhack chassis made out of steel that is packaged with platinum coins, Strange Merchant says that in exchange for this thing which you have crafted he will make an actual BL9 controlled manhack which can protect you",
@@ -361,7 +361,7 @@
   },
   {
     "id": "BL9_ugv_chassis_gold_mk2",
-    "type": "GENERIC",
+    "type": "ITEM",
     "category": "spare_parts",
     "name": { "str": "8Gcomb packaged with BL9 UGV Chassis" },
     "description": "BL9 UGV chassis made out of steel that is packaged with gold coins, Strange Merchant says that in exchange for this thing which you have crafted he will make an actual BL9 controlled UGV which can protect you",
@@ -376,7 +376,7 @@
   },
   {
     "id": "BL9_ugv_chassis_plat_mk2",
-    "type": "GENERIC",
+    "type": "ITEM",
     "category": "spare_parts",
     "name": { "str": "5Pcomb packaged with BL9 UGV Chassis" },
     "description": "BL9 UGV chassis made out of steel that is packaged with platinum coins, Strange Merchant says that in exchange for this thing which you have crafted he will make an actual BL9 controlled UGV which can protect you",
@@ -391,7 +391,7 @@
   },
   {
     "id": "BL9_advanced_manhack_chassis_plat_mk3",
-    "type": "GENERIC",
+    "type": "ITEM",
     "category": "spare_parts",
     "name": { "str": "8Pcomb packaged with BL9 Advanced Manhack Chassis" },
     "description": "BL9 Advanced Manhack chassis made out of steel that is packaged with platinum coins, Strange Merchant says that in exchange for this thing which you have crafted he will make an actual BL9 controlled advanced manhack which can protect you",
@@ -406,7 +406,7 @@
   },
   {
     "id": "BL9_advanced_ugv_chassis_plat_mk3",
-    "type": "GENERIC",
+    "type": "ITEM",
     "category": "spare_parts",
     "name": { "str": "8Pcomb packaged with BL9 Advanced UGV Chassis" },
     "description": "BL9 Advanced UGV chassis made out of steel that is packaged with platinum coins, Strange Merchant says that in exchange for this thing which you have crafted he will make an actual BL9 controlled advanced UGV which can protect you",
@@ -421,7 +421,7 @@
   },
   {
     "id": "BL9_advanced_manhack_chassis_plat_mk4",
-    "type": "GENERIC",
+    "type": "ITEM",
     "category": "spare_parts",
     "name": { "str": "9Pcomb packaged with BL9 Advanced Manhack Chassis" },
     "description": "BL9 Advanced Manhack chassis made out of steel that is packaged with platinum coins, Strange Merchant says that in exchange for this thing which you have crafted he will make an actual BL9 controlled advanced manhack which can protect you",
@@ -436,7 +436,7 @@
   },
   {
     "id": "BL9_advanced_ugv_chassis_plat_mk4",
-    "type": "GENERIC",
+    "type": "ITEM",
     "category": "spare_parts",
     "name": { "str": "9Pcomb packaged with BL9 Advanced UGV Chassis" },
     "description": "BL9 Advanced UGV chassis made out of steel that is packaged with platinum coins, Strange Merchant says that in exchange for this thing which you have crafted he will make an actual BL9 controlled advanced UGV which can protect you",
@@ -451,7 +451,7 @@
   },
   {
     "id": "BL9_shield_generator",
-    "type": "GENERIC",
+    "type": "ITEM",
     "category": "spare_parts",
     "name": { "str": "BL9 Shield Generator" },
     "description": "Incredible technologically advanced relatively small device which is capable of generating an energy shield around itself of a massive size. Currently turned off with only way of turning it on known to exile Davranide scientist that you are likely to be acquainted with already from journals which you can read. Exile Davranide scientist has programmed BL9 Safety Bases Android system to be able to turn shield generator on because he himself has created this shield generator",
@@ -468,7 +468,7 @@
     "id": "BL9_locationsmap",
     "looks_like": "survivormap",
     "category": "maps",
-    "type": "GENERIC",
+    "type": "ITEM",
     "symbol": ";",
     "color": "blue",
     "name": { "str": "BL9 Hidden Safety Bases Map" },
@@ -487,7 +487,7 @@
     "id": "BL9_locationsmap_tyrantsaliensstructures",
     "looks_like": "survivormap",
     "category": "maps",
-    "type": "GENERIC",
+    "type": "ITEM",
     "symbol": ";",
     "color": "blue",
     "name": { "str": "BL9 Hidden Structures Of Hostile Tyrants Along With Aliens Map" },
