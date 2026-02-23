@@ -448,8 +448,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 4, "cut": 20 },
-    
-      "passive_effects": [
+    "passive_effects": [
         {
           "has": "WIELD",
           "condition": "ALWAYS",
