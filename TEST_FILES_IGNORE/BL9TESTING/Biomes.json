@@ -2,7 +2,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_hivecaves_guardtower1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_purple",
@@ -94,7 +93,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_hivecaves_guardtower2" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_purple",
@@ -183,7 +181,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_hivecaves_guardtower3" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_purple",
@@ -272,7 +269,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_hivecaves_guardtower4" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_purple",
@@ -361,7 +357,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_hivecaves_guardtower5" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_purple",
@@ -450,7 +445,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "hive_caves_surface" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -509,7 +503,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "hive_caves1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_purple",
@@ -569,7 +562,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "hive_caves2" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_orange",
@@ -630,7 +622,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "hive_caves3" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_purple",
@@ -690,7 +681,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "hive_caves2_castle" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_purple",
@@ -751,7 +741,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "hive_caves3_castle" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_purple",
@@ -811,7 +800,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "hive_caves4" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_orange",
@@ -872,7 +860,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "hive_caves5" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_purple",
@@ -934,7 +921,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "hive_caves6" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_orange",
@@ -998,7 +984,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "hive_caves5_castle" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_purple",
@@ -1060,7 +1045,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "hive_caves6_castle" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_purple",
@@ -1124,7 +1108,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "hive_caves7" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_orange",
@@ -1187,7 +1170,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "hive_caves8" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_orange",
@@ -1249,7 +1231,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "hive_caves8_castle" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_purple",
@@ -1311,7 +1292,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "hive_caves9" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_purple",
@@ -1378,7 +1358,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "hive_caves9_castle" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_purple",
@@ -1444,7 +1423,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_sandcaves_guardtower1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_sand_underground",
@@ -1533,7 +1511,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_sandcaves_guardtower2" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_sand_underground",
@@ -1622,7 +1599,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_sandcaves_guardtower3" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_sand_underground",
@@ -1711,7 +1687,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_sandcaves_guardtower4" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_sand_underground",
@@ -1800,7 +1775,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_sandcaves_guardtower5" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_sand_underground",
@@ -1889,7 +1863,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "sandruins_caves_surface" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -1948,7 +1921,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "sandruins_caves1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_sand_underground",
@@ -2008,7 +1980,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "sandruins_caves1_castle" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_sand_underground",
@@ -2068,7 +2039,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "sandruins_caves2" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_yellow",
@@ -2129,7 +2099,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "sandruins_caves3" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_sand_underground",
@@ -2189,7 +2158,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "sandruins_caves2_castle" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_sand_underground",
@@ -2250,7 +2218,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "sandruins_caves3_castle" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_sand_underground",
@@ -2310,7 +2277,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "sandruins_caves4" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_yellow",
@@ -2371,7 +2337,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "sandruins_caves5" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_yellow",
@@ -2433,7 +2398,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "sandruins_caves6" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_yellow",
@@ -2497,7 +2461,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "sandruins_caves5_castle" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_sand_underground",
@@ -2559,7 +2522,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "sandruins_caves6_castle" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_sand_underground",
@@ -2623,7 +2585,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "sandruins_caves7" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_sand_underground",
@@ -2686,7 +2647,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "sandruins_caves8" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_yellow",
@@ -2748,7 +2708,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "sandruins_caves8_castle" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_sand_underground",
@@ -2810,7 +2769,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "sandruins_caves9" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_sand_underground",
@@ -2877,7 +2835,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "sandruins_caves9_castle" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_sand_underground",
@@ -2943,7 +2900,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_watercaves_guardtower1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_azureblue",
@@ -3032,7 +2988,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_watercaves_guardtower2" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_azureblue",
@@ -3124,7 +3079,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_watercaves_guardtower3" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_azureblue",
@@ -3213,7 +3167,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_watercaves_guardtower4" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_azureblue",
@@ -3302,7 +3255,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_watercaves_guardtower5" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_azureblue",
@@ -3391,7 +3343,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "water_caves_surface" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -3450,7 +3401,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "water_caves1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_liq_azureblue",
@@ -3510,7 +3460,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "water_caves2" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_liq_corral",
@@ -3571,7 +3520,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "water_caves3" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_liq_cyan",
@@ -3631,7 +3579,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "water_caves2_island" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_liq_azureblue",
@@ -3692,7 +3639,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "water_caves3_island" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_liq_azureblue",
@@ -3752,7 +3698,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "water_caves4" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_liq_corral",
@@ -3813,7 +3758,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "water_caves5" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_liq_cyan",
@@ -3875,7 +3819,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "water_caves6" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_liq_corral",
@@ -3939,7 +3882,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "water_caves5_island" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_liq_azureblue",
@@ -4001,7 +3943,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "water_caves6_island" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_liq_azureblue",
@@ -4065,7 +4006,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "water_caves7" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_liq_cyan",
@@ -4128,7 +4068,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "water_caves8" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_liq_corral",
@@ -4190,7 +4129,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "water_caves8_island" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_liq_azureblue",
@@ -4252,7 +4190,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "water_caves9" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_liq_cyan",
@@ -4323,7 +4260,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "water_caves9_island" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_liq_azureblue",
@@ -4389,7 +4325,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_lavacaves_guardtower1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_red",
@@ -4478,7 +4413,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_lavacaves_guardtower2" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_red",
@@ -4567,7 +4501,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_lavacaves_guardtower3" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_red",
@@ -4656,7 +4589,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_sandcaves_guardtower4" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_red",
@@ -4745,7 +4677,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_lavacaves_guardtower5" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_red",
@@ -4834,7 +4765,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "lava_caves_surface" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -4893,7 +4823,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "lava_caves1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_red",
@@ -4953,7 +4882,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "lava_caves2" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_yellow",
@@ -5014,7 +4942,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "lava_caves3" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_orange",
@@ -5074,7 +5001,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "lava_caves2_island" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_red",
@@ -5135,7 +5061,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "lava_caves3_island" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_red",
@@ -5195,7 +5120,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "lava_caves4" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_yellow",
@@ -5256,7 +5180,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "lava_caves5" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_orange",
@@ -5318,7 +5241,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "lava_caves6" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_yellow",
@@ -5382,7 +5304,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "lava_caves5_island" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_red",
@@ -5444,7 +5365,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "lava_caves6_island" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_red",
@@ -5508,7 +5428,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "lava_caves7" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_orange",
@@ -5571,7 +5490,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "lava_caves8" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_yellow",
@@ -5633,7 +5551,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "lava_caves8_island" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_red",
@@ -5695,7 +5612,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "lava_caves9" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_orange",
@@ -5767,7 +5683,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "lava_caves9_island" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_red",
@@ -5833,7 +5748,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_acidcaves_guardtower1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_limegreen",
@@ -5922,7 +5836,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_acidcaves_guardtower2" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_limegreen",
@@ -6011,7 +5924,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_acidcaves_guardtower3" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_limegreen",
@@ -6100,7 +6012,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_acidcaves_guardtower4" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_limegreen",
@@ -6189,7 +6100,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_acidcaves_guardtower5" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_limegreen",
@@ -6278,7 +6188,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "acid_caves_surface" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -6337,7 +6246,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "acid_caves1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_limegreen",
@@ -6397,7 +6305,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "acid_caves1_island" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_limegreen",
@@ -6457,7 +6364,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "acid_caves2" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_limegreen",
@@ -6518,7 +6424,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "acid_caves3" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_limegreen",
@@ -6578,7 +6483,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "acid_caves2_island" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_limegreen",
@@ -6639,7 +6543,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "acid_caves3_island" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_limegreen",
@@ -6699,7 +6602,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "acid_caves4" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_limegreen",
@@ -6760,7 +6662,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "acid_caves5" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_limegreen",
@@ -6822,7 +6723,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "acid_caves6" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_limegreen",
@@ -6886,7 +6786,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "acid_caves5_island" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_limegreen",
@@ -6948,7 +6847,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "acid_caves6_island" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_limegreen",
@@ -7012,7 +6910,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "acid_caves7" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_limegreen",
@@ -7075,7 +6972,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "acid_caves8" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_limegreen",
@@ -7137,7 +7033,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "acid_caves8_island" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_limegreen",
@@ -7199,7 +7094,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "acid_caves9" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_limegreen",
@@ -7273,7 +7167,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "acid_caves9_island" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_limegreen",
