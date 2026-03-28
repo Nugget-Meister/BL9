@@ -17,7 +17,7 @@
     "count": 1,
     "stack_size": 200,
     "ammo_type": "BL9_sample_type",
-    "effects": [ "NEVER_MISFIRES", "NON_FOULING" ]
+    "effects": [  "NON_FOULING" ]
   },
   {
     "id": "BL9_sample_mk2",
@@ -37,7 +37,7 @@
     "count": 1,
     "stack_size": 200,
     "ammo_type": "BL9_sample_type",
-    "effects": [ "NEVER_MISFIRES", "NON_FOULING" ]
+    "effects": [  "NON_FOULING" ]
   },
   {
     "id": "BL9_sample_mk3",
@@ -57,7 +57,7 @@
     "count": 1,
     "stack_size": 200,
     "ammo_type": "BL9_sample_type",
-    "effects": [ "NEVER_MISFIRES", "NON_FOULING" ]
+    "effects": [  "NON_FOULING" ]
   },
   {
     "id": "BL9_sample_mk4",
@@ -77,7 +77,7 @@
     "count": 1,
     "stack_size": 200,
     "ammo_type": "BL9_sample_type",
-    "effects": [ "NEVER_MISFIRES", "NON_FOULING" ]
+    "effects": [  "NON_FOULING" ]
   },
   {
     "id": "goldcoin",
@@ -96,7 +96,7 @@
     "count": 1,
     "stack_size": 200,
     "ammo_type": "goldcoin_type",
-    "effects": [ "NEVER_MISFIRES", "NON_FOULING" ],
+    "effects": [  "NON_FOULING" ],
     "flags": [ "ZERO_WEIGHT" ]
   },
   {
@@ -117,7 +117,7 @@
     "count": 1,
     "stack_size": 200,
     "ammo_type": "goldcoincomb_type",
-    "effects": [ "NEVER_MISFIRES", "NON_FOULING" ],
+    "effects": [  "NON_FOULING" ],
     "flags": [ "ZERO_WEIGHT" ]
   },
   {
@@ -137,7 +137,7 @@
     "count": 1,
     "stack_size": 200,
     "ammo_type": "tenvamiuncoin_type",
-    "effects": [ "NEVER_MISFIRES", "NON_FOULING" ],
+    "effects": [  "NON_FOULING" ],
     "flags": [ "ZERO_WEIGHT" ]
   },
   {
@@ -157,7 +157,7 @@
     "count": 1,
     "stack_size": 200,
     "ammo_type": "tenvamiuncoincomb_type",
-    "effects": [ "NEVER_MISFIRES", "NON_FOULING" ],
+    "effects": [  "NON_FOULING" ],
     "flags": [ "ZERO_WEIGHT" ]
   },
   {
@@ -177,7 +177,7 @@
     "count": 1,
     "stack_size": 200,
     "ammo_type": "platinumcoin_type",
-    "effects": [ "NEVER_MISFIRES", "NON_FOULING" ],
+    "effects": [  "NON_FOULING" ],
     "flags": [ "ZERO_WEIGHT" ]
   },
   {
@@ -198,7 +198,7 @@
     "count": 1,
     "stack_size": 200,
     "ammo_type": "platinumcoincomb_type",
-    "effects": [ "NEVER_MISFIRES", "NON_FOULING" ],
+    "effects": [  "NON_FOULING" ],
     "flags": [ "ZERO_WEIGHT" ]
   },
   {
@@ -218,7 +218,7 @@
     "count": 1,
     "stack_size": 200,
     "ammo_type": "hylinviuncoin_type",
-    "effects": [ "NEVER_MISFIRES", "NON_FOULING" ],
+    "effects": [  "NON_FOULING" ],
     "flags": [ "ZERO_WEIGHT" ]
   },
   {
@@ -238,7 +238,7 @@
     "count": 1,
     "stack_size": 200,
     "ammo_type": "hylinviuncoincomb_type",
-    "effects": [ "NEVER_MISFIRES", "NON_FOULING" ],
+    "effects": [  "NON_FOULING" ],
     "flags": [ "ZERO_WEIGHT" ]
   },
   {
@@ -712,7 +712,7 @@
     "ammo_type": "BL9spray_type",
     "damage": { "damage_type": "acid", "amount": 45, "armor_penetration": 15 },
     "range": 6,
-    "effects": [ "BLINDS_EYES", "BL9_ACIDAOE2", "BL9_ACIDTRAIL2", "NEVER_MISFIRES" ]
+    "effects": [ "BLINDS_EYES", "BL9_ACIDAOE2", "BL9_ACIDTRAIL2" ]
   },
   {
     "id": "BL9_melting_spray",
@@ -735,7 +735,7 @@
     "ammo_type": "BL9meltingspray_type",
     "damage": { "damage_type": "heat", "amount": 45, "armor_penetration": 15 },
     "range": 6,
-    "effects": [ "INCENDIARY", "BL9_STREAM_BIG", "NEVER_MISFIRES" ]
+    "effects": [ "INCENDIARY", "BL9_STREAM_BIG" ]
   },
   {
     "id": "BL9_spraymk2",
@@ -758,7 +758,7 @@
     "ammo_type": "BL9spraymk2_type",
     "damage": { "damage_type": "acid", "amount": 72, "armor_penetration": 20 },
     "range": 6,
-    "effects": [ "BLINDS_EYES", "BL9_ACIDAOE3", "BL9_ACIDTRAIL3", "NEVER_MISFIRES" ]
+    "effects": [ "BLINDS_EYES", "BL9_ACIDAOE3", "BL9_ACIDTRAIL3" ]
   },
   {
     "id": "BL9_melting_spraymk2",
@@ -781,7 +781,7 @@
     "ammo_type": "BL9meltingspraymk2_type",
     "damage": { "damage_type": "heat", "amount": 72, "armor_penetration": 20 },
     "range": 6,
-    "effects": [ "INCENDIARY", "BL9_STREAM_HUGE", "NEVER_MISFIRES" ]
+    "effects": [ "INCENDIARY", "BL9_STREAM_HUGE" ]
   },
   {
     "id": "BL9_spraymk3",
@@ -804,7 +804,7 @@
     "ammo_type": "BL9spraymk3_type",
     "damage": { "damage_type": "acid", "amount": 115, "armor_penetration": 32 },
     "range": 6,
-    "effects": [ "BLINDS_EYES", "BL9_ACIDAOE3", "BL9_ACIDTRAIL3", "NEVER_MISFIRES" ]
+    "effects": [ "BLINDS_EYES", "BL9_ACIDAOE3", "BL9_ACIDTRAIL3" ]
   },
   {
     "id": "BL9_melting_spraymk3",
@@ -827,7 +827,7 @@
     "ammo_type": "BL9meltingspraymk3_type",
     "damage": { "damage_type": "heat", "amount": 115, "armor_penetration": 32 },
     "range": 6,
-    "effects": [ "INCENDIARY", "BL9_STREAM_HUGE", "NEVER_MISFIRES" ]
+    "effects": [ "INCENDIARY", "BL9_STREAM_HUGE" ]
   },
   {
     "id": "railBL9",
@@ -1060,7 +1060,7 @@
     "range": 25,
     "damage": { "damage_type": "bullet", "amount": 1, "armor_penetration": 65 },
     "recovery_chance": 89,
-    "effects": [ "NEVER_MISFIRES", "COOKOFF", "ACT_ON_RANGED_HIT", "CUSTOM_EXPLOSION" ],
+    "effects": [  "COOKOFF", "ACT_ON_RANGED_HIT", "CUSTOM_EXPLOSION" ],
     "explode_in_fire": true,
     "explosion": { "power": 245, "distance_factor": 0.2 }
   },
@@ -1082,7 +1082,7 @@
     "range": 25,
     "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 75 },
     "recovery_chance": 89,
-    "effects": [ "NEVER_MISFIRES", "COOKOFF", "ACT_ON_RANGED_HIT", "CUSTOM_EXPLOSION" ],
+    "effects": [  "COOKOFF", "ACT_ON_RANGED_HIT", "CUSTOM_EXPLOSION" ],
     "explode_in_fire": true,
     "explosion": { "power": 485, "distance_factor": 0.2 }
   },
@@ -1104,7 +1104,7 @@
     "range": 25,
     "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 85 },
     "recovery_chance": 89,
-    "effects": [ "NEVER_MISFIRES", "COOKOFF", "ACT_ON_RANGED_HIT", "CUSTOM_EXPLOSION" ],
+    "effects": [  "COOKOFF", "ACT_ON_RANGED_HIT", "CUSTOM_EXPLOSION" ],
     "explode_in_fire": true,
     "explosion": { "power": 1000, "distance_factor": 0.2 }
   },
@@ -1224,7 +1224,7 @@
     "dispersion": 95,
     "recoil": 1175,
     "recovery_chance": 89,
-    "effects": [ "NEVER_MISFIRES", "COOKOFF", "ACT_ON_RANGED_HIT", "CUSTOM_EXPLOSION", "BL9_DAZZLINGAOE2", "BL9_LASERTRAIL2" ],
+    "effects": [  "COOKOFF", "ACT_ON_RANGED_HIT", "CUSTOM_EXPLOSION", "BL9_DAZZLINGAOE2", "BL9_LASERTRAIL2" ],
     "explode_in_fire": true,
     "explosion": { "power": 125, "distance_factor": 0.2 }
   },
@@ -1320,7 +1320,7 @@
     "dispersion": 95,
     "recoil": 1175,
     "recovery_chance": 89,
-    "effects": [ "NEVER_MISFIRES", "COOKOFF", "ACT_ON_RANGED_HIT", "CUSTOM_EXPLOSION", "BL9_DAZZLINGAOE2", "BL9_PLASMA2" ],
+    "effects": [  "COOKOFF", "ACT_ON_RANGED_HIT", "CUSTOM_EXPLOSION", "BL9_DAZZLINGAOE2", "BL9_PLASMA2" ],
     "explode_in_fire": true,
     "explosion": { "power": 125, "distance_factor": 0.2 }
   },
@@ -1417,7 +1417,7 @@
     "recoil": 1175,
     "recovery_chance": 89,
     "effects": [
-      "NEVER_MISFIRES",
+      
       "COOKOFF",
       "ACT_ON_RANGED_HIT",
       "CUSTOM_EXPLOSION",
@@ -1521,7 +1521,7 @@
     "recoil": 1175,
     "recovery_chance": 89,
     "effects": [
-      "NEVER_MISFIRES",
+      
       "COOKOFF",
       "ACT_ON_RANGED_HIT",
       "CUSTOM_EXPLOSION",
@@ -1624,7 +1624,7 @@
     "dispersion": 80,
     "recoil": 965,
     "recovery_chance": 89,
-    "effects": [ "NEVER_MISFIRES", "COOKOFF", "ACT_ON_RANGED_HIT", "CUSTOM_EXPLOSION", "BL9_DAZZLINGAOE3", "BL9_LASERTRAIL3" ],
+    "effects": [  "COOKOFF", "ACT_ON_RANGED_HIT", "CUSTOM_EXPLOSION", "BL9_DAZZLINGAOE3", "BL9_LASERTRAIL3" ],
     "explode_in_fire": true,
     "explosion": { "power": 245, "distance_factor": 0.2 }
   },
@@ -1720,7 +1720,7 @@
     "dispersion": 80,
     "recoil": 965,
     "recovery_chance": 89,
-    "effects": [ "NEVER_MISFIRES", "COOKOFF", "ACT_ON_RANGED_HIT", "CUSTOM_EXPLOSION", "BL9_DAZZLINGAOE3", "BL9_PLASMA3" ],
+    "effects": [  "COOKOFF", "ACT_ON_RANGED_HIT", "CUSTOM_EXPLOSION", "BL9_DAZZLINGAOE3", "BL9_PLASMA3" ],
     "explode_in_fire": true,
     "explosion": { "power": 245, "distance_factor": 0.2 }
   },
@@ -1817,7 +1817,7 @@
     "recoil": 965,
     "recovery_chance": 89,
     "effects": [
-      "NEVER_MISFIRES",
+      
       "COOKOFF",
       "ACT_ON_RANGED_HIT",
       "CUSTOM_EXPLOSION",
@@ -1921,7 +1921,7 @@
     "recoil": 965,
     "recovery_chance": 89,
     "effects": [
-      "NEVER_MISFIRES",
+      
       "COOKOFF",
       "ACT_ON_RANGED_HIT",
       "CUSTOM_EXPLOSION",
@@ -2024,7 +2024,7 @@
     "dispersion": 60,
     "recoil": 800,
     "recovery_chance": 89,
-    "effects": [ "NEVER_MISFIRES", "COOKOFF", "ACT_ON_RANGED_HIT", "CUSTOM_EXPLOSION", "BL9_DAZZLINGAOE3", "BL9_LASERTRAIL3" ],
+    "effects": [  "COOKOFF", "ACT_ON_RANGED_HIT", "CUSTOM_EXPLOSION", "BL9_DAZZLINGAOE3", "BL9_LASERTRAIL3" ],
     "explode_in_fire": true,
     "explosion": { "power": 596, "distance_factor": 0.2 }
   },
@@ -2120,7 +2120,7 @@
     "dispersion": 60,
     "recoil": 800,
     "recovery_chance": 89,
-    "effects": [ "NEVER_MISFIRES", "COOKOFF", "ACT_ON_RANGED_HIT", "CUSTOM_EXPLOSION", "BL9_DAZZLINGAOE3", "BL9_PLASMA3" ],
+    "effects": [  "COOKOFF", "ACT_ON_RANGED_HIT", "CUSTOM_EXPLOSION", "BL9_DAZZLINGAOE3", "BL9_PLASMA3" ],
     "explode_in_fire": true,
     "explosion": { "power": 596, "distance_factor": 0.2 }
   },
@@ -2217,7 +2217,7 @@
     "recoil": 800,
     "recovery_chance": 89,
     "effects": [
-      "NEVER_MISFIRES",
+      
       "COOKOFF",
       "ACT_ON_RANGED_HIT",
       "CUSTOM_EXPLOSION",
@@ -2321,7 +2321,7 @@
     "recoil": 800,
     "recovery_chance": 89,
     "effects": [
-      "NEVER_MISFIRES",
+      
       "COOKOFF",
       "ACT_ON_RANGED_HIT",
       "CUSTOM_EXPLOSION",

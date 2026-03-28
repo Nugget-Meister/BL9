@@ -207,7 +207,7 @@
     "price_postapoc": "60 USD",
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
-    "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
+    "ammo_effects": [  "TANGLE" ],
     "flags": [
       "DURABLE_MELEE",
       "NONCONDUCTIVE",
@@ -256,7 +256,7 @@
     "price_postapoc": "60 USD",
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
-    "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
+    "ammo_effects": [  "TANGLE" ],
     "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "SHEATH_SWORD", "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE", "WATERPROOF_GUN" ],
     "techniques": [
       "WBLOCK_2",
@@ -296,7 +296,7 @@
     "price_postapoc": "60 USD",
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
-    "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
+    "ammo_effects": [  "TANGLE" ],
     "flags": [
       "DURABLE_MELEE",
       "NONCONDUCTIVE",
@@ -337,7 +337,7 @@
     "price_postapoc": "60 USD",
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
-    "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
+    "ammo_effects": [  "TANGLE" ],
     "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE", "WATERPROOF_GUN", "ALWAYS_TWOHAND" ],
     "techniques": [
       "WBLOCK_2",
@@ -376,7 +376,7 @@
     "price_postapoc": "60 USD",
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
-    "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
+    "ammo_effects": [  "TANGLE" ],
     "flags": [
       "DURABLE_MELEE",
       "REACH_ATTACK",
@@ -416,7 +416,7 @@
     "price_postapoc": "60 USD",
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
-    "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
+    "ammo_effects": [  "TANGLE" ],
     "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE", "WATERPROOF_GUN", "ALWAYS_TWOHAND" ],
     "techniques": [ "WBLOCK_1", "RAPID", "tec_precise", "tec_krav_maga_rapid", "tec_krav_maga_disarm" ],
     "skill": "rifle",
@@ -1379,7 +1379,7 @@
     "price_postapoc": "60 USD",
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
-    "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
+    "ammo_effects": [  "TANGLE" ],
     "flags": [
       "DURABLE_MELEE",
       "NONCONDUCTIVE",
@@ -1428,7 +1428,7 @@
     "price_postapoc": "60 USD",
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
-    "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
+    "ammo_effects": [  "TANGLE" ],
     "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "SHEATH_SWORD", "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE", "WATERPROOF_GUN" ],
     "techniques": [
       "WBLOCK_2",
@@ -1469,7 +1469,7 @@
     "price_postapoc": "60 USD",
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
-    "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
+    "ammo_effects": [  "TANGLE" ],
     "flags": [
       "DURABLE_MELEE",
       "NONCONDUCTIVE",
@@ -1510,7 +1510,7 @@
     "price_postapoc": "60 USD",
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
-    "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
+    "ammo_effects": [  "TANGLE" ],
     "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE", "WATERPROOF_GUN", "ALWAYS_TWOHAND" ],
     "techniques": [
       "WBLOCK_2",
@@ -1549,7 +1549,7 @@
     "price_postapoc": "60 USD",
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
-    "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
+    "ammo_effects": [  "TANGLE" ],
     "flags": [
       "DURABLE_MELEE",
       "REACH_ATTACK",
@@ -1589,7 +1589,7 @@
     "price_postapoc": "60 USD",
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
-    "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
+    "ammo_effects": [  "TANGLE" ],
     "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE", "WATERPROOF_GUN", "ALWAYS_TWOHAND" ],
     "techniques": [ "WBLOCK_2", "SWEEP", "BRUTAL", "tec_precise", "tec_krav_maga_rapid", "tec_krav_maga_crit", "tec_krav_maga_disarm" ],
     "skill": "rifle",
@@ -2536,7 +2536,7 @@
     "price_postapoc": "60 USD",
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
-    "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
+    "ammo_effects": [  "TANGLE" ],
     "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE", "WATERPROOF_GUN", "ALWAYS_TWOHAND" ],
     "techniques": [
       "WBLOCK_2",
@@ -2576,7 +2576,7 @@
     "price_postapoc": "60 USD",
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
-    "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
+    "ammo_effects": [  "TANGLE" ],
     "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "SHEATH_SWORD", "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE", "WATERPROOF_GUN" ],
     "techniques": [
       "WBLOCK_2",
@@ -2617,7 +2617,7 @@
     "price_postapoc": "60 USD",
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
-    "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
+    "ammo_effects": [  "TANGLE" ],
     "flags": [
       "DURABLE_MELEE",
       "NONCONDUCTIVE",
@@ -2658,7 +2658,7 @@
     "price_postapoc": "60 USD",
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
-    "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
+    "ammo_effects": [  "TANGLE" ],
     "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE", "WATERPROOF_GUN", "ALWAYS_TWOHAND" ],
     "techniques": [
       "WBLOCK_2",
@@ -2697,7 +2697,7 @@
     "price_postapoc": "60 USD",
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
-    "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
+    "ammo_effects": [  "TANGLE" ],
     "flags": [
       "DURABLE_MELEE",
       "REACH_ATTACK",
@@ -2737,7 +2737,7 @@
     "price_postapoc": "60 USD",
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
-    "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
+    "ammo_effects": [  "TANGLE" ],
     "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE", "WATERPROOF_GUN", "ALWAYS_TWOHAND" ],
     "techniques": [ "WBLOCK_2", "SWEEP", "BRUTAL", "tec_precise", "tec_krav_maga_rapid", "tec_krav_maga_crit", "tec_krav_maga_disarm" ],
     "skill": "rifle",
