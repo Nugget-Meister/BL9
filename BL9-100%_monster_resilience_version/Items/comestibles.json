@@ -1,7 +1,8 @@
 [
   {
     "id": "mild_curing_herb",
-    "type": "COMESTIBLE",
+    "type": "ITEM",
+    "subtypes": [ "COMESTIBLE" ],
     "comestible_type": "MED",
     "name": { "str": "Mild Curing Herb" },
     "description": "A green herb of unknown origin, it has mild healing properties",
@@ -18,7 +19,8 @@
   },
   {
     "id": "medium_curing_herb",
-    "type": "COMESTIBLE",
+    "type": "ITEM",
+    "subtypes": [ "COMESTIBLE" ],
     "comestible_type": "MED",
     "name": { "str": "Medium Curing Herb" },
     "description": "A green herb of unknown origin, it has medium healing properties",
@@ -35,7 +37,8 @@
   },
   {
     "id": "strong_curing_herb",
-    "type": "COMESTIBLE",
+    "type": "ITEM",
+    "subtypes": [ "COMESTIBLE" ],
     "comestible_type": "MED",
     "name": { "str": "Strong Curing Herb" },
     "description": "A green herb of unknown origin, it has VERY strong healing properties",
@@ -52,7 +55,8 @@
   },
   {
     "id": "mild_healing_spray",
-    "type": "COMESTIBLE",
+    "type": "ITEM",
+    "subtypes": [ "COMESTIBLE" ],
     "comestible_type": "MED",
     "name": { "str": "Mild Healing Spray" },
     "description": "A spray of unknown origin, it has mild healing properties",
@@ -69,7 +73,8 @@
   },
   {
     "id": "medium_healing_spray",
-    "type": "COMESTIBLE",
+    "type": "ITEM",
+    "subtypes": [ "COMESTIBLE" ],
     "comestible_type": "MED",
     "name": { "str": "Medium Healing Spray" },
     "description": "A spray of unknown origin, it has medium healing properties",
@@ -86,7 +91,8 @@
   },
   {
     "id": "strong_healing_spray",
-    "type": "COMESTIBLE",
+    "type": "ITEM",
+    "subtypes": [ "COMESTIBLE" ],
     "comestible_type": "MED",
     "name": { "str": "Strong Healing Spray" },
     "description": "A spray of unknown origin, it has VERY strong healing properties",
@@ -103,7 +109,8 @@
   },
   {
     "id": "BL9_teleport_item",
-    "type": "COMESTIBLE",
+    "type": "ITEM",
+    "subtypes": [ "COMESTIBLE" ],
     "comestible_type": "MED",
     "name": { "str": "`THEIR` teleporting unit" },
     "description": "A strange teleporting unit used only by `THEIR` elite and most trusted units to quickly go from one part of the facility to the other",

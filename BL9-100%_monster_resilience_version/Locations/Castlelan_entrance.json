@@ -2,7 +2,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "castlelan_castle_entr1_left" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_floor_noroof",
@@ -50,7 +49,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "castlelan_castle_entr2_left" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -109,7 +107,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "castlelan_castle_entr_right" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -169,7 +166,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "castlelan_castle_entr_veryright" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -224,7 +220,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "castlelan_castle_ins_south" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -288,7 +283,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "castlelan_castle_hall_west" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -348,7 +342,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "castlelan_castle_clawer_south" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -410,7 +403,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "castlelan_castle_cerem_east1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -471,7 +463,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "castlelan_castle_cerem_east2" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -524,7 +515,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "castlelan_castle_ambush_east1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -589,7 +579,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "castlelan_castle_ambush_east2" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -649,7 +638,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "castlelan_castle_garden_south1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -703,7 +691,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "castlelan_castle_garden_south2" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -755,7 +742,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "castlelan_castle_clawer_south2" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -819,7 +805,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "castlelan_castle_ambush_east3" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -882,7 +867,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "castlelan_castle_roadtothrone_west1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -944,7 +928,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "castlelan_castle_roadtothrone_west2" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -1009,7 +992,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "castlelan_castle_scrawler_south1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -1065,7 +1047,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "castlelan_castle_scrawler_east1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -1122,7 +1103,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "castlelan_castle_roadtothrone_bridge1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -1177,7 +1157,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "castlelan_castle_roadtothrone_bridge2" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -1233,7 +1212,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "castlelan_castle_throneroom_west" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -1299,7 +1277,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "castlelan_castle_robocastlelan1_south" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -1363,7 +1340,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "castlelan_castle_robocastlelan2_south" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -1421,7 +1397,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "castlelan_castle_roadtocastlelan" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -1484,7 +1459,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "castlelan_castle_castlelan" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",

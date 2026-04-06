@@ -2,7 +2,8 @@
   {
     "id": "9mmBL9mag",
     "looks_like": "p38mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 9mm magazine" },
     "description": "A plastic magazine made for BL9 9mm caliber ammo",
     "weight": "500 g",
@@ -21,7 +22,8 @@
   {
     "id": "9mmBL9mk2mag",
     "looks_like": "m9mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 9mm MK ii magazine" },
     "description": "A plastic magazine made for BL9 9mm MK ii caliber ammo",
     "weight": "500 g",
@@ -40,7 +42,8 @@
   {
     "id": "9mmBL9mk3mag",
     "looks_like": "m9mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 9mm MK iii magazine" },
     "description": "A plastic magazine made for BL9 9mm MK iii caliber ammo",
     "weight": "500 g",
@@ -59,7 +62,8 @@
   {
     "id": "9mmBL9smgmag",
     "looks_like": "thompson_mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 9mm smg magazine" },
     "description": "A plastic magazine made for BL9 9mm caliber smg ammo",
     "weight": "210 g",
@@ -78,7 +82,8 @@
   {
     "id": "9mmBL9smgmk2mag",
     "looks_like": "tdi_mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 9mm MK ii smg magazine" },
     "description": "A plastic magazine made for BL9 9mm MK ii caliber smg ammo",
     "weight": "210 g",
@@ -97,7 +102,8 @@
   {
     "id": "9mmBL9smgmk3mag",
     "looks_like": "tdi_mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 9mm MK iii smg magazine" },
     "description": "A plastic magazine made for BL9 9mm MK iii caliber smg ammo",
     "weight": "210 g",
@@ -116,7 +122,8 @@
   {
     "id": "308BL9mag",
     "looks_like": "falmag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 308 sniper magazine" },
     "description": "A plastic magazine made for BL9 308 caliber sniper rifle ammo",
     "weight": "105 g",
@@ -135,7 +142,8 @@
   {
     "id": "308BL9mk2mag",
     "looks_like": "as50mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 308 MK ii sniper magazine" },
     "description": "A plastic magazine made for BL9 308 MK ii caliber sniper rifle ammo",
     "weight": "105 g",
@@ -154,7 +162,8 @@
   {
     "id": "308BL9mk3mag",
     "looks_like": "as50mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 308 MK iii sniper magazine" },
     "description": "A plastic magazine made for BL9 308 MK iii caliber sniper rifle ammo",
     "weight": "105 g",
@@ -173,7 +182,8 @@
   {
     "id": "556BL9mag",
     "looks_like": "stanag30",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 556 automatic magazine" },
     "description": "A plastic magazine for BL9 556 caliber automatic rifle ammo",
     "weight": "105 g",
@@ -192,7 +202,8 @@
   {
     "id": "556BL9mk2mag",
     "looks_like": "stanag40",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 556 MK ii automatic magazine" },
     "description": "A plastic magazine for BL9 556 MK ii caliber automatic rifle ammo",
     "weight": "105 g",
@@ -211,7 +222,8 @@
   {
     "id": "556BL9mk3mag",
     "looks_like": "stanag60",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 556 MK iii automatic magazine" },
     "description": "A plastic magazine for BL9 556 and 223 MK iii caliber automatic rifle ammo",
     "weight": "105 g",
@@ -230,7 +242,8 @@
   {
     "id": "tank_BL9",
     "looks_like": "pressurized_tank_chem",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 acid-resistant tank" },
     "description": "A makeshift 2L canister containing a living liquified BL9 that is very acidic, may be used in a makeshift `BL9 sprayer`",
     "weight": "800 g",
@@ -248,7 +261,8 @@
   {
     "id": "tankm_BL9",
     "looks_like": "pressurized_tank_chem",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 heat-resistant tank" },
     "description": "A makeshift 2L canister containing a living liquified BL9 that is incredibly heated, may be used in a makeshift `BL9 melting sprayer`",
     "weight": "800 g",
@@ -268,7 +282,8 @@
   {
     "id": "tank_BL9_mk2",
     "looks_like": "pressurized_tank_chem",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 enhanced acid-resistant tank" },
     "description": "A makeshift 2L canister containing an even more corrosive living liquified BL9 that has very strong acidic properties, may be used in a makeshift `BL9 sprayer`",
     "weight": "800 g",
@@ -286,7 +301,8 @@
   {
     "id": "tankm_BL9_mk2",
     "looks_like": "pressurized_tank_chem",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 enhanced heat-resistant tank" },
     "description": "A makeshift 2L canister containing a living liquified BL9 that is almost in a magmatic state, may be used in a makeshift `BL9 melting sprayer`",
     "weight": "800 g",
@@ -306,7 +322,8 @@
   {
     "id": "tank_BL9_mk3",
     "looks_like": "pressurized_tank_chem",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 super acid-resistant tank" },
     "description": "A makeshift 2L canister containing an incredibly corrosive living liquified BL9 that has very lethal and dangerous caustic properties, may be used in a makeshift `BL9 sprayer`",
     "weight": "800 g",
@@ -324,7 +341,8 @@
   {
     "id": "tankm_BL9_mk3",
     "looks_like": "pressurized_tank_chem",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 super heat-resistant tank" },
     "description": "A makeshift 2L canister containing a living liquified BL9 that is in a pure magmatic state capable of melting anything or so it seems, may be used in a makeshift `BL9 melting sprayer`",
     "weight": "800 g",
@@ -344,7 +362,8 @@
   {
     "id": "railBL9mag",
     "looks_like": "hk_g80mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 rail magazine" },
     "description": "A plastic magazine made for BL9 rails",
     "weight": "165 g",
@@ -363,7 +382,8 @@
   {
     "id": "railBL9mk2mag",
     "looks_like": "hk_g80mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 rail MK ii magazine" },
     "description": "A plastic magazine made for BL9 MK ii rails",
     "weight": "165 g",
@@ -382,7 +402,8 @@
   {
     "id": "railBL9mk3mag",
     "looks_like": "hk_g80mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 rail MK iii magazine" },
     "description": "A plastic magazine made for BL9 MK iii rails",
     "weight": "165 g",
@@ -401,7 +422,8 @@
   {
     "id": "laserblasterBL9mag",
     "looks_like": "m9mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 laser blaster magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental laser blaster",
     "weight": "500 g",
@@ -420,7 +442,8 @@
   {
     "id": "plasmablasterBL9mag",
     "looks_like": "m9mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 plasma blaster magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental plasma blaster",
     "weight": "500 g",
@@ -439,7 +462,8 @@
   {
     "id": "electricblasterBL9mag",
     "looks_like": "m9mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 electric blaster magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental electric blaster",
     "weight": "500 g",
@@ -458,7 +482,8 @@
   {
     "id": "acidblasterBL9mag",
     "looks_like": "m9mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 acid blaster magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental acid blaster",
     "weight": "500 g",
@@ -477,7 +502,8 @@
   {
     "id": "lasercasterBL9mag",
     "looks_like": "as50mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 laser caster magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental laser caster",
     "weight": "105 g",
@@ -496,7 +522,8 @@
   {
     "id": "plasmacasterBL9mag",
     "looks_like": "as50mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 plasma caster magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental plasma caster",
     "weight": "105 g",
@@ -515,7 +542,8 @@
   {
     "id": "electriccasterBL9mag",
     "looks_like": "as50mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 electric caster magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental electric caster",
     "weight": "105 g",
@@ -534,7 +562,8 @@
   {
     "id": "acidcasterBL9mag",
     "looks_like": "as50mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 acid caster magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental acid caster",
     "weight": "105 g",
@@ -553,7 +582,8 @@
   {
     "id": "laserrifleBL9mag",
     "looks_like": "stanag10",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 laser rifle magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental laser rifle",
     "weight": "105 g",
@@ -572,7 +602,8 @@
   {
     "id": "plasmarifleBL9mag",
     "looks_like": "stanag10",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 plasma rifle magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental plasma rifle",
     "weight": "105 g",
@@ -591,7 +622,8 @@
   {
     "id": "electricrifleBL9mag",
     "looks_like": "stanag10",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 electric rifle magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental electric rifle",
     "weight": "105 g",
@@ -610,7 +642,8 @@
   {
     "id": "acidrifleBL9mag",
     "looks_like": "stanag10",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 acid rifle magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental acid rifle",
     "weight": "105 g",
@@ -629,7 +662,8 @@
   {
     "id": "lasercannonBL9mag",
     "looks_like": "hk_g80mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 laser cannon magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental laser cannon",
     "weight": "400 g",
@@ -647,7 +681,8 @@
   {
     "id": "plasmacannonBL9mag",
     "looks_like": "hk_g80mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 plasma cannon magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental plasma cannon",
     "weight": "400 g",
@@ -665,7 +700,8 @@
   {
     "id": "electriccannonBL9mag",
     "looks_like": "hk_g80mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 electric cannon magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental electric cannon",
     "weight": "400 g",
@@ -683,7 +719,8 @@
   {
     "id": "acidcannonBL9mag",
     "looks_like": "hk_g80mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 acid cannon magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental acid cannon",
     "weight": "400 g",
@@ -701,7 +738,8 @@
   {
     "id": "laserblastermk2BL9mag",
     "looks_like": "m9mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 laser blaster MK ii magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental laser blaster MK ii",
     "weight": "500 g",
@@ -720,7 +758,8 @@
   {
     "id": "plasmablastermk2BL9mag",
     "looks_like": "m9mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 plasma blaster MK ii magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental plasma blaster MK ii",
     "weight": "500 g",
@@ -739,7 +778,8 @@
   {
     "id": "electricblastermk2BL9mag",
     "looks_like": "m9mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 electric blaster MK ii magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental electric blaster MK ii",
     "weight": "500 g",
@@ -758,7 +798,8 @@
   {
     "id": "acidblastermk2BL9mag",
     "looks_like": "m9mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 acid blaster MK ii magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental acid blaster MK ii",
     "weight": "500 g",
@@ -777,7 +818,8 @@
   {
     "id": "lasercastermk2BL9mag",
     "looks_like": "as50mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 laser caster MK ii magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental laser caster MK ii",
     "weight": "105 g",
@@ -796,7 +838,8 @@
   {
     "id": "plasmacastermk2BL9mag",
     "looks_like": "as50mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 plasma caster MK ii magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental plasma caster MK ii",
     "weight": "105 g",
@@ -815,7 +858,8 @@
   {
     "id": "electriccastermk2BL9mag",
     "looks_like": "as50mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 electric caster MK ii magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental electric caster MK ii",
     "weight": "105 g",
@@ -834,7 +878,8 @@
   {
     "id": "acidcastermk2BL9mag",
     "looks_like": "as50mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 acid caster MK ii magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental acid caster MK ii",
     "weight": "105 g",
@@ -853,7 +898,8 @@
   {
     "id": "laserriflemk2BL9mag",
     "looks_like": "stanag10",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 laser rifle MK ii magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental laser rifle MK ii",
     "weight": "105 g",
@@ -872,7 +918,8 @@
   {
     "id": "plasmariflemk2BL9mag",
     "looks_like": "stanag10",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 plasma rifle MK ii magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental plasma rifle MK ii",
     "weight": "105 g",
@@ -891,7 +938,8 @@
   {
     "id": "electricriflemk2BL9mag",
     "looks_like": "stanag10",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 electric rifle MK ii magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental electric rifle MK ii",
     "weight": "105 g",
@@ -910,7 +958,8 @@
   {
     "id": "acidriflemk2BL9mag",
     "looks_like": "stanag10",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 acid rifle MK ii magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental acid rifle MK ii",
     "weight": "105 g",
@@ -929,7 +978,8 @@
   {
     "id": "lasercannonmk2BL9mag",
     "looks_like": "hk_g80mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 laser cannon MK ii magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental laser cannon MK ii",
     "weight": "400 g",
@@ -947,7 +997,8 @@
   {
     "id": "plasmacannonmk2BL9mag",
     "looks_like": "hk_g80mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 plasma cannon MK ii magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental plasma cannon MK ii",
     "weight": "400 g",
@@ -965,7 +1016,8 @@
   {
     "id": "electriccannonmk2BL9mag",
     "looks_like": "hk_g80mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 electric cannon MK ii magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental electric cannon MK ii",
     "weight": "400 g",
@@ -983,7 +1035,8 @@
   {
     "id": "acidcannonmk2BL9mag",
     "looks_like": "hk_g80mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 acid cannon MK ii magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental acid cannon MK ii",
     "weight": "400 g",
@@ -1001,7 +1054,8 @@
   {
     "id": "laserblastermk3BL9mag",
     "looks_like": "m9mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 laser blaster MK iii magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental laser blaster MK iii",
     "weight": "500 g",
@@ -1020,7 +1074,8 @@
   {
     "id": "plasmablastermk3BL9mag",
     "looks_like": "m9mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 plasma blaster MK iii magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental plasma blaster MK iii",
     "weight": "500 g",
@@ -1039,7 +1094,8 @@
   {
     "id": "electricblastermk3BL9mag",
     "looks_like": "m9mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 electric blaster MK iii magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental electric blaster MK iii",
     "weight": "500 g",
@@ -1058,7 +1114,8 @@
   {
     "id": "acidblastermk3BL9mag",
     "looks_like": "m9mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 acid blaster MK iii magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental acid blaster MK iii",
     "weight": "500 g",
@@ -1077,7 +1134,8 @@
   {
     "id": "lasercastermk3BL9mag",
     "looks_like": "as50mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 laser caster MK iii magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental laser caster MK iii",
     "weight": "105 g",
@@ -1096,7 +1154,8 @@
   {
     "id": "plasmacastermk3BL9mag",
     "looks_like": "as50mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 plasma caster MK iii magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental plasma caster MK iii",
     "weight": "105 g",
@@ -1115,7 +1174,8 @@
   {
     "id": "electriccastermk3BL9mag",
     "looks_like": "as50mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 electric caster MK iii magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental electric caster MK iii",
     "weight": "105 g",
@@ -1134,7 +1194,8 @@
   {
     "id": "acidcastermk3BL9mag",
     "looks_like": "as50mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 acid caster MK iii magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental acid caster MK iii",
     "weight": "105 g",
@@ -1153,7 +1214,8 @@
   {
     "id": "laserriflemk3BL9mag",
     "looks_like": "stanag30",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 laser rifle MK iii magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental laser rifle MK iii",
     "weight": "105 g",
@@ -1172,7 +1234,8 @@
   {
     "id": "plasmariflemk3BL9mag",
     "looks_like": "stanag30",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 plasma rifle MK iii magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental plasma rifle MK iii",
     "weight": "105 g",
@@ -1191,7 +1254,8 @@
   {
     "id": "electricriflemk3BL9mag",
     "looks_like": "stanag30",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 electric rifle MK iii magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental electric rifle MK iii",
     "weight": "105 g",
@@ -1210,7 +1274,8 @@
   {
     "id": "acidriflemk3BL9mag",
     "looks_like": "stanag30",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 acid rifle MK iii magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental acid rifle MK iii",
     "weight": "105 g",
@@ -1229,7 +1294,8 @@
   {
     "id": "lasercannonmk3BL9mag",
     "looks_like": "hk_g80mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 laser cannon MK iii magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental laser cannon MK iii",
     "weight": "400 g",
@@ -1247,7 +1313,8 @@
   {
     "id": "plasmacannonmk3BL9mag",
     "looks_like": "hk_g80mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 plasma cannon MK iii magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental plasma cannon MK iii",
     "weight": "400 g",
@@ -1265,7 +1332,8 @@
   {
     "id": "electriccannonmk3BL9mag",
     "looks_like": "hk_g80mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 electric cannon MK iii magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental electric cannon MK iii",
     "weight": "400 g",
@@ -1283,7 +1351,8 @@
   {
     "id": "acidcannonmk3BL9mag",
     "looks_like": "hk_g80mag",
-    "type": "MAGAZINE",
+    "type": "ITEM",
+    "subtypes": [ "MAGAZINE" ],
     "name": { "str": "BL9 acid cannon MK iii magazine" },
     "description": "A uniquely designed futuristic magazine for BL9 experimental acid cannon MK iii",
     "weight": "400 g",

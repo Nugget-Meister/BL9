@@ -1,7 +1,8 @@
 [
   {
-    "type": "region_overlay",
-    "regions": [ "all" ],
-    "city": { "shops": { "BL9_library": 300, "BL9_bookstore": 300 } }
+    "type": "region_settings_city",
+    "id":"default",
+    "copy-from": "default",
+    "extend": { "shops": { "BL9_library": 300, "BL9_bookstore": 300 } }
   }
 ]

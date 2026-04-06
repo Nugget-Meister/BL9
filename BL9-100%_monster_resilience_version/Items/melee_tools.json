@@ -2,7 +2,8 @@
   {
     "id": "BL9_tendril_sword",
     "looks_like": "machete",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "weapon_category": [ "LONG_SWORDS" ],
     "category": "weapons",
     "name": { "str": "BL9-tendril sword" },
@@ -31,7 +32,8 @@
   {
     "id": "BL9_tonfa",
     "looks_like": "tonfa",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "weapon_category": [ "BATONS" ],
     "category": "weapons",
     "name": { "str": "BL9 tonfa" },
@@ -51,7 +53,8 @@
   {
     "id": "BL9_worm_whip",
     "looks_like": "bullwhip_razor",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "weapon_category": [ "FLAILS" ],
     "category": "weapons",
     "name": { "str": "BL9-worm whip" },
@@ -71,7 +74,8 @@
   {
     "id": "BL9_claws_melee",
     "looks_like": "bio_claws_weapon",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "weapon_category": [ "CLAWS" ],
     "category": "weapons",
     "name": { "str": "BL9-infused claws" },
@@ -91,7 +95,8 @@
   {
     "id": "BL9_repto_glaive",
     "looks_like": "glaive",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "weapon_category": [ "HOOKING_WEAPONRY", "POLEARMS" ],
     "category": "weapons",
     "name": { "str": "BL9 Repto glaive" },
@@ -111,7 +116,8 @@
   {
     "id": "BL9_spiky_sword",
     "looks_like": "jian",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "weapon_category": [ "LONG_SWORDS" ],
     "category": "weapons",
     "name": { "str": "BL9-spike sword" },
@@ -140,7 +146,8 @@
   {
     "id": "BL9_tail_whip",
     "looks_like": "bullwhip_razor",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "weapon_category": [ "FLAILS" ],
     "category": "weapons",
     "name": { "str": "BL9 tail whip" },
@@ -160,7 +167,8 @@
   {
     "id": "BL9_tentacle_axe",
     "looks_like": "battleaxe",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "weapon_category": [ "GREAT_AXES" ],
     "category": "weapons",
     "name": { "str": "BL9-tentacle axe" },
@@ -188,7 +196,8 @@
   {
     "id": "BL9_stun_quarterstaff",
     "looks_like": "i_staff",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "weapon_category": [ "QUARTERSTAVES" ],
     "symbol": ";",
     "color": "light_gray",
@@ -198,7 +207,7 @@
     "price_postapoc": "60 USD",
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
-    "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
+    "ammo_effects": [  "TANGLE" ],
     "flags": [
       "DURABLE_MELEE",
       "NONCONDUCTIVE",
@@ -236,7 +245,8 @@
   {
     "id": "BL9_stun_blade",
     "looks_like": "jian",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "weapon_category": [ "LONG_SWORDS" ],
     "symbol": ";",
     "color": "light_gray",
@@ -246,7 +256,7 @@
     "price_postapoc": "60 USD",
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
-    "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
+    "ammo_effects": [  "TANGLE" ],
     "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "SHEATH_SWORD", "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE", "WATERPROOF_GUN" ],
     "techniques": [
       "WBLOCK_2",
@@ -275,7 +285,8 @@
   {
     "id": "BL9_stun_halberd",
     "looks_like": "halberd",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "weapon_category": [ "HOOKING_WEAPONRY", "POLEARMS" ],
     "symbol": ";",
     "color": "light_gray",
@@ -285,7 +296,7 @@
     "price_postapoc": "60 USD",
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
-    "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
+    "ammo_effects": [  "TANGLE" ],
     "flags": [
       "DURABLE_MELEE",
       "NONCONDUCTIVE",
@@ -315,7 +326,8 @@
   {
     "id": "BL9_stun_hammer",
     "looks_like": "hammer_sledge",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "weapon_category": [ "GREAT_HAMMERS" ],
     "symbol": ";",
     "color": "light_gray",
@@ -325,7 +337,7 @@
     "price_postapoc": "60 USD",
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
-    "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
+    "ammo_effects": [  "TANGLE" ],
     "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE", "WATERPROOF_GUN", "ALWAYS_TWOHAND" ],
     "techniques": [
       "WBLOCK_2",
@@ -353,7 +365,8 @@
   {
     "id": "BL9_stun_whip",
     "looks_like": "bullwhip_razor",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "weapon_category": [ "FLAILS" ],
     "symbol": ";",
     "color": "light_gray",
@@ -363,7 +376,7 @@
     "price_postapoc": "60 USD",
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
-    "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
+    "ammo_effects": [  "TANGLE" ],
     "flags": [
       "DURABLE_MELEE",
       "REACH_ATTACK",
@@ -392,7 +405,8 @@
   {
     "id": "BL9_stun_claws",
     "looks_like": "bio_claws_weapon",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "weapon_category": [ "CLAWS" ],
     "symbol": ";",
     "color": "light_gray",
@@ -402,7 +416,7 @@
     "price_postapoc": "60 USD",
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
-    "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
+    "ammo_effects": [  "TANGLE" ],
     "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE", "WATERPROOF_GUN", "ALWAYS_TWOHAND" ],
     "techniques": [ "WBLOCK_1", "RAPID", "tec_precise", "tec_krav_maga_rapid", "tec_krav_maga_disarm" ],
     "skill": "rifle",
@@ -422,7 +436,8 @@
   {
     "id": "BL9_laser_blade",
     "looks_like": "jian",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "LONG_SWORDS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental laser blade" },
@@ -433,8 +448,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 4, "cut": 20 },
-    "relic_data": {
-      "passive_effects": [
+    "passive_effects": [
         {
           "has": "WIELD",
           "condition": "ALWAYS",
@@ -446,8 +460,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -466,7 +479,8 @@
   {
     "id": "BL9_laser_halberd",
     "looks_like": "halberd",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "HOOKING_WEAPONRY", "POLEARMS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental laser halberd" },
@@ -477,7 +491,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 2, "cut": 22 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -490,8 +504,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -501,7 +514,8 @@
   {
     "id": "BL9_laser_hammer",
     "looks_like": "hammer_sledge",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "GREAT_HAMMERS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental laser hammer" },
@@ -512,7 +526,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 22, "cut": 2 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -525,8 +539,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -544,7 +557,8 @@
   {
     "id": "BL9_laser_whip",
     "looks_like": "bullwhip_razor",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "FLAILS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental laser whip" },
@@ -555,7 +569,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 6, "cut": 18 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -568,8 +582,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -579,7 +592,8 @@
   {
     "id": "BL9_laser_claws",
     "looks_like": "bio_claws_weapon",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "CLAWS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental laser claws" },
@@ -590,7 +604,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 1, "cut": 23 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -603,8 +617,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -614,7 +627,8 @@
   {
     "id": "BL9_plasma_blade",
     "looks_like": "jian",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "LONG_SWORDS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental plasma blade" },
@@ -625,7 +639,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 4, "cut": 20 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -638,8 +652,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -658,7 +671,8 @@
   {
     "id": "BL9_plasma_halberd",
     "looks_like": "halberd",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "HOOKING_WEAPONRY", "POLEARMS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental plasma halberd" },
@@ -669,7 +683,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 2, "cut": 22 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -682,8 +696,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -693,7 +706,8 @@
   {
     "id": "BL9_plasma_hammer",
     "looks_like": "hammer_sledge",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "GREAT_HAMMERS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental plasma hammer" },
@@ -704,7 +718,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 22, "cut": 2 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -717,8 +731,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -736,7 +749,8 @@
   {
     "id": "BL9_plasma_whip",
     "looks_like": "bullwhip_razor",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "FLAILS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental plasma whip" },
@@ -747,7 +761,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 6, "cut": 18 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -760,8 +774,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -771,7 +784,8 @@
   {
     "id": "BL9_plasma_claws",
     "looks_like": "bio_claws_weapon",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "CLAWS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental plasma claws" },
@@ -782,7 +796,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 1, "cut": 23 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -795,8 +809,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -806,7 +819,8 @@
   {
     "id": "BL9_electric_blade",
     "looks_like": "jian",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "LONG_SWORDS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental electric blade" },
@@ -817,7 +831,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 4, "cut": 20 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -830,8 +844,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -850,7 +863,8 @@
   {
     "id": "BL9_electric_halberd",
     "looks_like": "halberd",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "HOOKING_WEAPONRY", "POLEARMS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental electric halberd" },
@@ -861,7 +875,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 2, "cut": 22 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -874,8 +888,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -885,7 +898,8 @@
   {
     "id": "BL9_electric_hammer",
     "looks_like": "hammer_sledge",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "GREAT_HAMMERS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental electric hammer" },
@@ -896,7 +910,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 22, "cut": 2 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -909,8 +923,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -928,7 +941,8 @@
   {
     "id": "BL9_electric_whip",
     "looks_like": "bullwhip_razor",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "FLAILS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental electric whip" },
@@ -939,7 +953,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 6, "cut": 18 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -952,8 +966,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -963,7 +976,8 @@
   {
     "id": "BL9_electric_claws",
     "looks_like": "bio_claws_weapon",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "CLAWS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental electric claws" },
@@ -974,7 +988,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 1, "cut": 23 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -987,8 +1001,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -998,7 +1011,8 @@
   {
     "id": "BL9_acid_blade",
     "looks_like": "jian",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "LONG_SWORDS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental acid blade" },
@@ -1009,7 +1023,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 4, "cut": 20 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -1022,8 +1036,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -1042,7 +1055,8 @@
   {
     "id": "BL9_acid_halberd",
     "looks_like": "halberd",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "HOOKING_WEAPONRY", "POLEARMS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental acid halberd" },
@@ -1053,7 +1067,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 2, "cut": 22 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -1066,8 +1080,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -1077,7 +1090,8 @@
   {
     "id": "BL9_acid_hammer",
     "looks_like": "hammer_sledge",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "GREAT_HAMMERS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental acid hammer" },
@@ -1088,7 +1102,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 22, "cut": 2 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -1101,8 +1115,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -1120,7 +1133,8 @@
   {
     "id": "BL9_acid_whip",
     "looks_like": "bullwhip_razor",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "FLAILS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental acid whip" },
@@ -1131,7 +1145,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 6, "cut": 18 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -1144,8 +1158,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -1155,7 +1168,8 @@
   {
     "id": "BL9_acid_claws",
     "looks_like": "bio_claws_weapon",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "CLAWS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental acid claws" },
@@ -1166,7 +1180,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 1, "cut": 23 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -1179,8 +1193,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -1190,7 +1203,8 @@
   {
     "id": "BL9_bladed_tentacle_claws",
     "looks_like": "bio_claws_weapon",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "weapon_category": [ "CLAWS" ],
     "category": "weapons",
     "name": { "str": "BL9 bladed tentacle claws" },
@@ -1210,7 +1224,8 @@
   {
     "id": "BL9_spiked_worm_polearm",
     "looks_like": "glaive",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "weapon_category": [ "HOOKING_WEAPONRY", "POLEARMS" ],
     "category": "weapons",
     "name": { "str": "BL9-worm spiked polearm" },
@@ -1230,7 +1245,8 @@
   {
     "id": "BL9_tentacle_spike_flail",
     "looks_like": "2h_flail_steel",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "weapon_category": [ "FLAILS" ],
     "category": "weapons",
     "name": { "str": "BL9-tentacle spiked flail" },
@@ -1250,7 +1266,8 @@
   {
     "id": "BL9_repto_evo_glaive",
     "looks_like": "naginata",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "weapon_category": [ "HOOKING_WEAPONRY", "POLEARMS" ],
     "category": "weapons",
     "name": { "str": "BL9 evolved Repto glaive" },
@@ -1270,7 +1287,8 @@
   {
     "id": "BL9_pincer_sword",
     "looks_like": "zweihander",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "weapon_category": [ "GREAT_SWORDS" ],
     "category": "weapons",
     "name": { "str": "BL9-pincer sword" },
@@ -1300,7 +1318,8 @@
   {
     "id": "BL9_claws_evo",
     "looks_like": "bio_claws_weapon",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "weapon_category": [ "CLAWS" ],
     "category": "weapons",
     "name": { "str": "BL9 evolved claws" },
@@ -1320,7 +1339,8 @@
   {
     "id": "BL9_spiked_sledgehammer",
     "looks_like": "hammer_sledge_heavy",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "weapon_category": [ "GREAT_HAMMERS" ],
     "category": "weapons",
     "name": { "str": "BL9 spiked sledgehammer" },
@@ -1348,7 +1368,8 @@
   {
     "id": "BL9_stun_quarterstaff_mk2",
     "looks_like": "i_staff",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "weapon_category": [ "QUARTERSTAVES" ],
     "symbol": ";",
     "color": "light_gray",
@@ -1358,7 +1379,7 @@
     "price_postapoc": "60 USD",
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
-    "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
+    "ammo_effects": [  "TANGLE" ],
     "flags": [
       "DURABLE_MELEE",
       "NONCONDUCTIVE",
@@ -1396,7 +1417,8 @@
   {
     "id": "BL9_stun_blade_mk2",
     "looks_like": "katana",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "weapon_category": [ "LONG_SWORDS" ],
     "symbol": ";",
     "color": "light_gray",
@@ -1406,7 +1428,7 @@
     "price_postapoc": "60 USD",
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
-    "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
+    "ammo_effects": [  "TANGLE" ],
     "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "SHEATH_SWORD", "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE", "WATERPROOF_GUN" ],
     "techniques": [
       "WBLOCK_2",
@@ -1436,7 +1458,8 @@
   {
     "id": "BL9_stun_halberd_mk2",
     "looks_like": "halberd",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "weapon_category": [ "HOOKING_WEAPONRY", "POLEARMS" ],
     "symbol": ";",
     "color": "light_gray",
@@ -1446,7 +1469,7 @@
     "price_postapoc": "60 USD",
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
-    "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
+    "ammo_effects": [  "TANGLE" ],
     "flags": [
       "DURABLE_MELEE",
       "NONCONDUCTIVE",
@@ -1476,7 +1499,8 @@
   {
     "id": "BL9_stun_hammer_mk2",
     "looks_like": "hammer_sledge_heavy",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "weapon_category": [ "GREAT_HAMMERS" ],
     "symbol": ";",
     "color": "light_gray",
@@ -1486,7 +1510,7 @@
     "price_postapoc": "60 USD",
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
-    "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
+    "ammo_effects": [  "TANGLE" ],
     "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE", "WATERPROOF_GUN", "ALWAYS_TWOHAND" ],
     "techniques": [
       "WBLOCK_2",
@@ -1514,7 +1538,8 @@
   {
     "id": "BL9_stun_whip_mk2",
     "looks_like": "bullwhip_razor",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "weapon_category": [ "FLAILS" ],
     "symbol": ";",
     "color": "light_gray",
@@ -1524,7 +1549,7 @@
     "price_postapoc": "60 USD",
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
-    "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
+    "ammo_effects": [  "TANGLE" ],
     "flags": [
       "DURABLE_MELEE",
       "REACH_ATTACK",
@@ -1553,7 +1578,8 @@
   {
     "id": "BL9_stun_claws_mk2",
     "looks_like": "bio_claws_weapon",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "weapon_category": [ "CLAWS" ],
     "symbol": ";",
     "color": "light_gray",
@@ -1563,7 +1589,7 @@
     "price_postapoc": "60 USD",
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
-    "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
+    "ammo_effects": [  "TANGLE" ],
     "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE", "WATERPROOF_GUN", "ALWAYS_TWOHAND" ],
     "techniques": [ "WBLOCK_2", "SWEEP", "BRUTAL", "tec_precise", "tec_krav_maga_rapid", "tec_krav_maga_crit", "tec_krav_maga_disarm" ],
     "skill": "rifle",
@@ -1583,7 +1609,8 @@
   {
     "id": "BL9_laser_blade_mk2",
     "looks_like": "katana",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "LONG_SWORDS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental laser blade MK ii" },
@@ -1594,7 +1621,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 6, "cut": 30 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -1607,8 +1634,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -1628,7 +1654,8 @@
   {
     "id": "BL9_laser_halberd_mk2",
     "looks_like": "halberd",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "HOOKING_WEAPONRY", "POLEARMS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental laser halberd MK ii" },
@@ -1639,7 +1666,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 2, "cut": 34 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -1652,8 +1679,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -1663,7 +1689,8 @@
   {
     "id": "BL9_laser_hammer_mk2",
     "looks_like": "hammer_sledge_heavy",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "GREAT_HAMMERS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental laser hammer MK ii" },
@@ -1674,7 +1701,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 34, "cut": 2 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -1687,8 +1714,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -1706,7 +1732,8 @@
   {
     "id": "BL9_laser_whip_mk2",
     "looks_like": "bullwhip_razor",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "FLAILS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental laser whip MK ii" },
@@ -1717,7 +1744,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 9, "cut": 27 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -1730,8 +1757,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -1741,7 +1767,8 @@
   {
     "id": "BL9_laser_claws_mk2",
     "looks_like": "bio_claws_weapon",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "CLAWS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental laser claws MK ii" },
@@ -1752,7 +1779,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 1, "cut": 35 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -1765,8 +1792,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -1776,7 +1802,8 @@
   {
     "id": "BL9_plasma_blade_mk2",
     "looks_like": "katana",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "LONG_SWORDS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental plasma blade MK ii" },
@@ -1787,7 +1814,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 6, "cut": 30 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -1800,8 +1827,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -1821,7 +1847,8 @@
   {
     "id": "BL9_plasma_halberd_mk2",
     "looks_like": "halberd",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "HOOKING_WEAPONRY", "POLEARMS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental plasma halberd MK ii" },
@@ -1832,7 +1859,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 2, "cut": 34 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -1845,8 +1872,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -1856,7 +1882,8 @@
   {
     "id": "BL9_plasma_hammer_mk2",
     "looks_like": "hammer_sledge_heavy",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "GREAT_HAMMERS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental plasma hammer MK ii" },
@@ -1867,7 +1894,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 34, "cut": 2 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -1880,8 +1907,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -1899,7 +1925,8 @@
   {
     "id": "BL9_plasma_whip_mk2",
     "looks_like": "bullwhip_razor",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "FLAILS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental plasma whip MK ii" },
@@ -1910,7 +1937,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 9, "cut": 27 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -1923,8 +1950,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -1934,7 +1960,8 @@
   {
     "id": "BL9_plasma_claws_mk2",
     "looks_like": "bio_claws_weapon",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "CLAWS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental plasma claws MK ii" },
@@ -1945,7 +1972,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 1, "cut": 35 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -1958,8 +1985,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -1969,7 +1995,8 @@
   {
     "id": "BL9_electric_blade_mk2",
     "looks_like": "katana",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "LONG_SWORDS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental electric blade MK ii" },
@@ -1980,7 +2007,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 6, "cut": 30 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -1993,8 +2020,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -2014,7 +2040,8 @@
   {
     "id": "BL9_electric_halberd_mk2",
     "looks_like": "halberd",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "HOOKING_WEAPONRY", "POLEARMS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental electric halberd MK ii" },
@@ -2025,7 +2052,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 2, "cut": 34 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -2038,8 +2065,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -2049,7 +2075,8 @@
   {
     "id": "BL9_electric_hammer_mk2",
     "looks_like": "hammer_sledge_heavy",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "GREAT_HAMMERS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental electric hammer MK ii" },
@@ -2060,7 +2087,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 34, "cut": 2 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -2073,8 +2100,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -2092,7 +2118,8 @@
   {
     "id": "BL9_electric_whip_mk2",
     "looks_like": "bullwhip_razor",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "FLAILS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental electric whip MK ii" },
@@ -2103,7 +2130,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 9, "cut": 27 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -2116,8 +2143,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -2127,7 +2153,8 @@
   {
     "id": "BL9_electric_claws_mk2",
     "looks_like": "bio_claws_weapon",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "CLAWS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental electric claws" },
@@ -2138,7 +2165,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 1, "cut": 35 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -2151,8 +2178,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -2162,7 +2188,8 @@
   {
     "id": "BL9_acid_blade_mk2",
     "looks_like": "katana",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "LONG_SWORDS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental acid blade MK ii" },
@@ -2173,7 +2200,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 6, "cut": 30 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -2186,8 +2213,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -2207,7 +2233,8 @@
   {
     "id": "BL9_acid_halberd_mk2",
     "looks_like": "halberd",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "HOOKING_WEAPONRY", "POLEARMS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental acid halberd MK ii" },
@@ -2218,7 +2245,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 2, "cut": 34 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -2231,8 +2258,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -2242,7 +2268,8 @@
   {
     "id": "BL9_acid_hammer_mk2",
     "looks_like": "hammer_sledge_heavy",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "GREAT_HAMMERS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental acid hammer MK ii" },
@@ -2253,7 +2280,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 34, "cut": 2 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -2266,8 +2293,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -2285,7 +2311,8 @@
   {
     "id": "BL9_acid_whip_mk2",
     "looks_like": "bullwhip_razor",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "FLAILS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental acid whip MK ii" },
@@ -2296,7 +2323,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 9, "cut": 27 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -2309,8 +2336,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -2320,7 +2346,8 @@
   {
     "id": "BL9_acid_claws_mk2",
     "looks_like": "bio_claws_weapon",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "CLAWS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental acid claws MK ii" },
@@ -2331,7 +2358,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 1, "cut": 35 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -2344,8 +2371,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -2355,7 +2381,8 @@
   {
     "id": "BL9_tail_whip_enhanced",
     "looks_like": "bullwhip_razor",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "weapon_category": [ "FLAILS" ],
     "category": "weapons",
     "name": { "str": "BL9 enhanced tail whip" },
@@ -2375,7 +2402,8 @@
   {
     "id": "BL9_tentacle_axe_enhanced",
     "looks_like": "battleaxe",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "weapon_category": [ "GREAT_AXES" ],
     "category": "weapons",
     "name": { "str": "BL9-tentacle enhanced axe" },
@@ -2403,7 +2431,8 @@
   {
     "id": "BL9_tentacle_spike_flail_enhanced",
     "looks_like": "2h_flail_steel",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "weapon_category": [ "FLAILS" ],
     "category": "weapons",
     "name": { "str": "BL9-tentacle enhanced spiked flail" },
@@ -2423,7 +2452,8 @@
   {
     "id": "BL9_repto_evo_glaive_enhanced",
     "looks_like": "naginata",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "weapon_category": [ "HOOKING_WEAPONRY", "POLEARMS" ],
     "category": "weapons",
     "name": { "str": "BL9 evolved Repto enhanced glaive" },
@@ -2443,7 +2473,8 @@
   {
     "id": "BL9_pincer_sword_enhanced",
     "looks_like": "zweihander",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "weapon_category": [ "GREAT_SWORDS" ],
     "category": "weapons",
     "name": { "str": "BL9-pincer enhanced sword" },
@@ -2473,7 +2504,8 @@
   {
     "id": "BL9_claws_evo_enhanced",
     "looks_like": "bio_claws_weapon",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "weapon_category": [ "CLAWS" ],
     "category": "weapons",
     "name": { "str": "BL9 enhanced evolved claws" },
@@ -2493,7 +2525,8 @@
   {
     "id": "BL9_stun_quarterstaff_mk3",
     "looks_like": "i_staff",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "weapon_category": [ "QUARTERSTAVES" ],
     "symbol": ";",
     "color": "light_gray",
@@ -2503,7 +2536,7 @@
     "price_postapoc": "60 USD",
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
-    "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
+    "ammo_effects": [  "TANGLE" ],
     "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE", "WATERPROOF_GUN", "ALWAYS_TWOHAND" ],
     "techniques": [
       "WBLOCK_2",
@@ -2532,7 +2565,8 @@
   {
     "id": "BL9_stun_blade_mk3",
     "looks_like": "katana",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "weapon_category": [ "LONG_SWORDS" ],
     "symbol": ";",
     "color": "light_gray",
@@ -2542,7 +2576,7 @@
     "price_postapoc": "60 USD",
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
-    "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
+    "ammo_effects": [  "TANGLE" ],
     "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "SHEATH_SWORD", "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE", "WATERPROOF_GUN" ],
     "techniques": [
       "WBLOCK_2",
@@ -2572,7 +2606,8 @@
   {
     "id": "BL9_stun_halberd_mk3",
     "looks_like": "halberd",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "weapon_category": [ "HOOKING_WEAPONRY", "POLEARMS" ],
     "symbol": ";",
     "color": "light_gray",
@@ -2582,7 +2617,7 @@
     "price_postapoc": "60 USD",
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
-    "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
+    "ammo_effects": [  "TANGLE" ],
     "flags": [
       "DURABLE_MELEE",
       "NONCONDUCTIVE",
@@ -2612,7 +2647,8 @@
   {
     "id": "BL9_stun_hammer_mk3",
     "looks_like": "hammer_sledge_heavy",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "weapon_category": [ "GREAT_HAMMERS" ],
     "symbol": ";",
     "color": "light_gray",
@@ -2622,7 +2658,7 @@
     "price_postapoc": "60 USD",
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
-    "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
+    "ammo_effects": [  "TANGLE" ],
     "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE", "WATERPROOF_GUN", "ALWAYS_TWOHAND" ],
     "techniques": [
       "WBLOCK_2",
@@ -2650,7 +2686,8 @@
   {
     "id": "BL9_stun_whip_mk3",
     "looks_like": "bullwhip_razor",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "weapon_category": [ "FLAILS" ],
     "symbol": ";",
     "color": "light_gray",
@@ -2660,7 +2697,7 @@
     "price_postapoc": "60 USD",
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
-    "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
+    "ammo_effects": [  "TANGLE" ],
     "flags": [
       "DURABLE_MELEE",
       "REACH_ATTACK",
@@ -2689,7 +2726,8 @@
   {
     "id": "BL9_stun_claws_mk3",
     "looks_like": "bio_claws_weapon",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "weapon_category": [ "CLAWS" ],
     "symbol": ";",
     "color": "light_gray",
@@ -2699,7 +2737,7 @@
     "price_postapoc": "60 USD",
     "ammo": [ "stunammoBL9_type" ],
     "material": [ "BL9", "steel" ],
-    "ammo_effects": [ "NEVER_MISFIRES", "TANGLE" ],
+    "ammo_effects": [  "TANGLE" ],
     "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE", "WATERPROOF_GUN", "ALWAYS_TWOHAND" ],
     "techniques": [ "WBLOCK_2", "SWEEP", "BRUTAL", "tec_precise", "tec_krav_maga_rapid", "tec_krav_maga_crit", "tec_krav_maga_disarm" ],
     "skill": "rifle",
@@ -2719,7 +2757,8 @@
   {
     "id": "BL9_laser_blade_mk3",
     "looks_like": "katana",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "LONG_SWORDS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental laser blade MK iii" },
@@ -2730,7 +2769,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 10, "cut": 38 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -2743,8 +2782,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -2764,7 +2802,8 @@
   {
     "id": "BL9_laser_halberd_mk3",
     "looks_like": "halberd",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "HOOKING_WEAPONRY", "POLEARMS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental laser halberd MK iii" },
@@ -2775,7 +2814,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 2, "cut": 46 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -2788,8 +2827,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -2799,7 +2837,8 @@
   {
     "id": "BL9_laser_hammer_mk3",
     "looks_like": "hammer_sledge_heavy",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "GREAT_HAMMERS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental laser hammer MK iii" },
@@ -2810,7 +2849,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 46, "cut": 2 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -2823,8 +2862,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -2842,7 +2880,8 @@
   {
     "id": "BL9_laser_whip_mk3",
     "looks_like": "bullwhip_razor",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "FLAILS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental laser whip MK iii" },
@@ -2853,7 +2892,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 12, "cut": 36 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -2866,8 +2905,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -2877,7 +2915,8 @@
   {
     "id": "BL9_laser_claws_mk3",
     "looks_like": "bio_claws_weapon",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "CLAWS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental laser claws MK iii" },
@@ -2888,7 +2927,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 3, "cut": 48 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -2901,8 +2940,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -2912,7 +2950,8 @@
   {
     "id": "BL9_plasma_blade_mk3",
     "looks_like": "katana",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "LONG_SWORDS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental plasma blade MK iii" },
@@ -2923,7 +2962,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 10, "cut": 38 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -2936,8 +2975,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -2957,7 +2995,8 @@
   {
     "id": "BL9_plasma_halberd_mk3",
     "looks_like": "halberd",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "HOOKING_WEAPONRY", "POLEARMS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental plasma halberd MK iii" },
@@ -2968,7 +3007,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 2, "cut": 46 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -2981,8 +3020,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -2992,7 +3030,8 @@
   {
     "id": "BL9_plasma_hammer_mk3",
     "looks_like": "hammer_sledge_heavy",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "GREAT_HAMMERS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental plasma hammer MK iii" },
@@ -3003,7 +3042,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 46, "cut": 2 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -3016,8 +3055,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -3035,7 +3073,8 @@
   {
     "id": "BL9_plasma_whip_mk3",
     "looks_like": "bullwhip_razor",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "FLAILS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental plasma whip MK iii" },
@@ -3046,7 +3085,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 12, "cut": 36 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -3059,8 +3098,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -3070,7 +3108,8 @@
   {
     "id": "BL9_plasma_claws_mk3",
     "looks_like": "bio_claws_weapon",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "CLAWS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental plasma claws MK iii" },
@@ -3081,7 +3120,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 3, "cut": 48 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -3094,8 +3133,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -3105,7 +3143,8 @@
   {
     "id": "BL9_electric_blade_mk3",
     "looks_like": "katana",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "LONG_SWORDS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental electric blade MK iii" },
@@ -3116,7 +3155,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 10, "cut": 38 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -3129,8 +3168,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -3150,7 +3188,8 @@
   {
     "id": "BL9_electric_halberd_mk3",
     "looks_like": "halberd",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "HOOKING_WEAPONRY", "POLEARMS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental electric halberd MK iii" },
@@ -3161,7 +3200,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 2, "cut": 46 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -3174,8 +3213,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -3185,7 +3223,8 @@
   {
     "id": "BL9_electric_hammer_mk3",
     "looks_like": "hammer_sledge_heavy",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "GREAT_HAMMERS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental electric hammer MK iii" },
@@ -3196,7 +3235,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 46, "cut": 2 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -3209,8 +3248,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -3228,7 +3266,8 @@
   {
     "id": "BL9_electric_whip_mk3",
     "looks_like": "bullwhip_razor",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "FLAILS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental electric whip MK iii" },
@@ -3239,7 +3278,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 12, "cut": 36 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -3252,8 +3291,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -3263,7 +3301,8 @@
   {
     "id": "BL9_electric_claws_mk3",
     "looks_like": "bio_claws_weapon",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "CLAWS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental electric claws MK iii" },
@@ -3274,7 +3313,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 3, "cut": 48 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -3287,8 +3326,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -3298,7 +3336,8 @@
   {
     "id": "BL9_acid_blade_mk3",
     "looks_like": "katana",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "LONG_SWORDS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental acid blade MK iii" },
@@ -3309,7 +3348,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 10, "cut": 38 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -3322,8 +3361,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -3343,7 +3381,8 @@
   {
     "id": "BL9_acid_halberd_mk3",
     "looks_like": "halberd",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "HOOKING_WEAPONRY", "POLEARMS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental acid halberd MK iii" },
@@ -3354,7 +3393,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 2, "cut": 46 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -3367,8 +3406,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -3378,7 +3416,8 @@
   {
     "id": "BL9_acid_hammer_mk3",
     "looks_like": "hammer_sledge_heavy",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "GREAT_HAMMERS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental acid hammer MK iii" },
@@ -3389,7 +3428,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 46, "cut": 2 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -3402,8 +3441,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -3421,7 +3459,8 @@
   {
     "id": "BL9_acid_whip_mk3",
     "looks_like": "bullwhip_razor",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "FLAILS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental acid whip MK iii" },
@@ -3432,7 +3471,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 12, "cut": 36 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -3445,8 +3484,7 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
@@ -3456,7 +3494,8 @@
   {
     "id": "BL9_acid_claws_mk3",
     "looks_like": "bio_claws_weapon",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL", "ARTIFACT" ],
     "weapon_category": [ "CLAWS" ],
     "category": "weapons",
     "name": { "str": "BL9 experimental acid claws MK iii" },
@@ -3467,7 +3506,7 @@
     "price_postapoc": "60 USD",
     "to_hit": { "grip": "weapon", "length": "long", "surface": "every", "balance": "good" },
     "melee_damage": { "bash": 3, "cut": 48 },
-    "relic_data": {
+    
       "passive_effects": [
         {
           "has": "WIELD",
@@ -3480,17 +3519,17 @@
             }
           ]
         }
-      ]
-    },
+      ],
     "material": [ "BL9", "steel" ],
     "symbol": ";",
     "color": "light_gray",
     "techniques": [ "WBLOCK_2", "RAPID", "tec_precise", "tec_krav_maga_rapid", "tec_krav_maga_crit", "tec_krav_maga_disarm" ],
     "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "ALWAYS_TWOHAND" ]
   },
-  {
+   {
     "id": "buildinggoesboomhahafunny",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "name": { "str": "LOL" },
     "description": "THIS GOES KABOOOOOOOM.",
     "volume": "0 L",
@@ -3500,12 +3539,17 @@
     "material": [ "veggy" ],
     "symbol": "0",
     "color": "red",
-    "drop_action": { "target": "buildinggoesboomhahafunny_act", "target_charges": 1, "active": true, "type": "transform" },
+    "drop_action": { 
+      "target": "buildinggoesboomhahafunny_act", 
+      "target_timer": "1 second",  
+      "type": "transform" 
+    },
     "flags": [ "ZERO_WEIGHT" ]
   },
   {
     "id": "buildinggoesboomhahafunny_act",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "name": { "str": "HAHA FUNNY" },
     "description": "THIS IS KABOOOOOOMMMMIIINNNGGGG",
     "volume": "0 L",
@@ -3515,15 +3559,18 @@
     "material": [ "veggy" ],
     "symbol": "0",
     "color": "red",
-    "initial_charges": 1,
-    "max_charges": 1,
-    "turns_per_charge": 1,
-    "use_action": { "type": "cast_spell", "spell_id": "buildinggoesboomhahafunny_boom", "no_fail": true, "level": 0 },
+    "countdown_action": { 
+      "type": "cast_spell", 
+      "spell_id": "buildinggoesboomhahafunny_boom", 
+      "no_fail": true, 
+      "level": 0 
+    },
     "flags": [ "ZERO_WEIGHT" ]
   },
   {
     "id": "BL9_trader_transmitter",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "name": { "str": "Strange Trader Transmitter" },
     "description": "Transmitter left by an unknown person, a merchant of some kind, you can see what's written on it 'Got a selection of GOOD things on sale, stranger! If you are looking to trade, have questions, don't hesitate to send a signal, I will come to trade with you, to answer your questions. I accept gold along with platinum coins combinations as currency, I also ask for scrap metal for some of sophisticated things. Now, answers to questions along with directions are free, of course'",
     "weight": "85 g",
@@ -3546,7 +3593,8 @@
   {
     "id": "bot_manhack_BL9_mk1",
     "looks_like": "bot_manhack",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "name": { "str": "inactive BL9 Manhack MK i" },
     "description": "An inactive BL9 manhack, a fist-sized BL9 controlled robot that increases greatly in size when you launch it in the air. It's fast, it's damaging, but it's not that tanky. It's capable of smashing enemies, doing ranged attacks, shooting it's organic gun that can stun enemies. Each increasing mark of BL9 manhacks becomes stronger, greater at protecting you. You still need to reprogram and activate the manhack, though, electronics and computer skill requirements are much lower for these versions than for standard industrial manhacks.",
     "weight": "1500 g",
@@ -3570,7 +3618,8 @@
   {
     "id": "bot_manhack_BL9_mk2",
     "looks_like": "bot_manhack",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "name": { "str": "inactive BL9 Manhack MK ii" },
     "description": "An inactive BL9 manhack, a fist-sized BL9 controlled robot that increases greatly in size when you launch it in the air. It's fast, it's damaging, but it's not that tanky. It's capable of smashing enemies, doing ranged attacks, shooting it's organic gun that can stun enemies. Each increasing mark of BL9 manhacks becomes stronger, greater at protecting you. You still need to reprogram and activate the manhack, though, electronics and computer skill requirements are much lower for these versions than for standard industrial manhacks.",
     "weight": "1500 g",
@@ -3594,7 +3643,8 @@
   {
     "id": "bot_manhack_BL9_mk3",
     "looks_like": "bot_manhack",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "name": { "str": "inactive BL9 Manhack MK iii" },
     "description": "An inactive BL9 manhack, a fist-sized BL9 controlled robot that increases greatly in size when you launch it in the air. It's fast, it's damaging, but it's not that tanky. It's capable of smashing enemies, doing ranged attacks, shooting it's organic gun that can stun enemies. Each increasing mark of BL9 manhacks becomes stronger, greater at protecting you. You still need to reprogram and activate the manhack, though, electronics and computer skill requirements are much lower for these versions than for standard industrial manhacks.",
     "weight": "1500 g",
@@ -3618,7 +3668,8 @@
   {
     "id": "bot_manhack_BL9_mk4",
     "looks_like": "bot_manhack",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "name": { "str": "inactive BL9 Manhack MK iv" },
     "description": "An inactive BL9 manhack, a fist-sized BL9 controlled robot that increases greatly in size when you launch it in the air. It's fast, it's damaging, but it's not that tanky. It's capable of smashing enemies, doing ranged attacks, shooting it's organic gun that can stun enemies. This is the highest mark of BL9 manhacks, it's the strongest, greatest of them all at protecting you. You still need to reprogram and activate the manhack, though, electronics and computer skill requirements are much lower for these versions than for standard industrial manhacks.",
     "weight": "1500 g",
@@ -3642,7 +3693,8 @@
   {
     "id": "bot_ugv_BL9_mk1",
     "looks_like": "bot_talon_m202a1",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "name": { "str": "inactive BL9 UGV MK i" },
     "description": "An inactive BL9 UGV, tracked BL9 controlled robot that increases greatly in size when you put it on the ground. It's slow, it's damaging, but it's tanky. It's capable of smashing enemies, doing ranged attacks, shooting it's organic gun that can stun enemies. Each increasing mark of BL9 UGVs becomes stronger, greater at protecting you. You still need to reprogram and activate the UGV, though, electronics and computer skill requirements are much lower for these versions than for standard industrial UGVs.",
     "weight": "40750 g",
@@ -3666,7 +3718,8 @@
   {
     "id": "bot_ugv_BL9_mk2",
     "looks_like": "bot_talon_m202a1",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "name": { "str": "inactive BL9 UGV MK ii" },
     "description": "An inactive BL9 UGV, tracked BL9 controlled robot that increases greatly in size when you put it on the ground. It's slow, it's damaging, but it's tanky. It's capable of smashing enemies, doing ranged attacks, shooting it's organic gun that can stun enemies. Each increasing mark of BL9 UGVs becomes stronger, greater at protecting you. You still need to reprogram and activate the UGV, though, electronics and computer skill requirements are much lower for these versions than for standard industrial UGVs.",
     "weight": "40750 g",
@@ -3690,7 +3743,8 @@
   {
     "id": "bot_ugv_BL9_mk3",
     "looks_like": "bot_talon_m202a1",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "name": { "str": "inactive BL9 UGV MK iii" },
     "description": "An inactive BL9 UGV, tracked BL9 controlled robot that increases greatly in size when you put it on the ground. It's slow, it's damaging, but it's tanky. It's capable of smashing enemies, doing ranged attacks, shooting it's organic gun that can stun enemies. Each increasing mark of BL9 UGVs becomes stronger, greater at protecting you. You still need to reprogram and activate the UGV, though, electronics and computer skill requirements are much lower for these versions than for standard industrial UGVs.",
     "weight": "40750 g",
@@ -3714,7 +3768,8 @@
   {
     "id": "bot_ugv_BL9_mk4",
     "looks_like": "bot_talon_m202a1",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "name": { "str": "inactive BL9 UGV MK iv" },
     "description": "An inactive BL9 UGV, tracked BL9 controlled robot that increases greatly in size when you put it on the ground. It's slow, it's damaging, but it's tanky. It's capable of smashing enemies, doing ranged attacks, shooting it's organic gun that can stun enemies. This is the highest mark of BL9 UGVs, which is the strongest, greatest of them all at protecting you. You still need to reprogram and activate the UGV, though, electronics and computer skill requirements are much lower for these versions than for standard industrial UGVs.",
     "weight": "40750 g",
@@ -3738,7 +3793,8 @@
   {
     "id": "BL9_repair_soldering",
     "looks_like": "soldering_iron",
-    "type": "TOOL",
+    "type": "ITEM",
+    "subtypes": [ "TOOL" ],
     "name": { "str": "BL9-infused soldering iron" },
     "description": "A soldering iron that has somehow been infused with the entirely sentient BL9 that somehow mentally communicates with you, it is covered and entirely reinforced with it's thick tissue with multiple spiky almost unnoticeabely vibrating protrusions that give it a more intimidating, animate look, ",
     "weight": "281 g",
@@ -3749,7 +3805,6 @@
     "material": [ "iron", "BL9" ],
     "symbol": "%",
     "color": "light_gray",
-    "ammo": [ "battery" ],
     "charges_per_use": 1,
     "use_action": [
       {
@@ -3775,6 +3830,11 @@
         "skill": "fabrication",
         "cost_scaling": 0.15,
         "move_cost": 845
+      },
+      { 
+        "type": "link_up",
+        "cable_length": 3, 
+        "charge_rate": "70 W" 
       }
     ],
     "flags": [ "BELT_CLIP", "ALLOWS_REMOTE_USE" ],
@@ -3785,15 +3845,7 @@
         "holster": true,
         "max_contains_volume": "20 L",
         "max_contains_weight": "20 kg",
-        "item_restriction": [
-          "light_minus_battery_cell",
-          "light_battery_cell",
-          "light_plus_battery_cell",
-          "light_atomic_battery_cell",
-          "light_minus_atomic_battery_cell",
-          "light_minus_disposable_cell",
-          "light_disposable_cell"
-        ]
+        "flag_restriction": [ "BATTERY_LIGHT" ]
       }
     ]
   }

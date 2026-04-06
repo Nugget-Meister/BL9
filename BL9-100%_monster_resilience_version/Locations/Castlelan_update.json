@@ -2,7 +2,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "castlelan_purple1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_carpet_purple",
@@ -93,7 +92,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "castlelan_purple2" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_carpet_purple",
@@ -187,7 +185,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "castlelan_purple3" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_carpet_purple",
@@ -278,7 +275,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "castlelan_purple4" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_carpet_purple",
@@ -369,7 +365,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "castlelan_red1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_carpet_red",
@@ -458,7 +453,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "castlelan_red2" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_carpet_red",
@@ -552,7 +546,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "castlelan_red3" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_carpet_red",
@@ -643,7 +636,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "castlelan_red4" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_carpet_red",
@@ -734,7 +726,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "castlelan_green1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -824,7 +815,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "castlelan_green2" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -917,7 +907,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "castlelan_green3" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -1007,7 +996,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "castlelan_green4" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -1097,7 +1085,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "castlelan_blue1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -1184,7 +1171,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "castlelan_blue2" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -1276,7 +1262,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "castlelan_blue3" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",
@@ -1365,7 +1350,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "castlelan_blue4" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_rock_floor",

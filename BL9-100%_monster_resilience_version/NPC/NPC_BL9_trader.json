@@ -6,7 +6,7 @@
     "name_unique": "Strange Trader",
     "gender": "male",
     "class": "NC_BONE_SEER",
-    "attitude": 7,
+    "attitude": 5,
     "mission": 3,
     "chat": "TALK_BL9_TRADER",
     "faction": "free_merchants"

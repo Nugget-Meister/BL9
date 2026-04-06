@@ -2,7 +2,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_core82" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_purple",
@@ -95,7 +94,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_core2" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_purple",
@@ -188,7 +186,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_core92" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_purple",
@@ -281,7 +278,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_sandcaves_guardtower4" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_purple",
@@ -374,7 +370,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_core1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_purple",

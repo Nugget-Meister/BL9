@@ -2,7 +2,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_SandCamp1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_sand",
@@ -93,7 +92,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_SandCamp2" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_sand",
@@ -186,7 +184,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_Merc1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_sand",
@@ -261,7 +258,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_Merc2" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_sand",
@@ -345,7 +341,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_Merc3" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_sand",
@@ -433,7 +428,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_Merc4" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_sand",
@@ -503,7 +497,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_Road_Fortress1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_sand",
@@ -579,7 +572,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_Road_Fortress2" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_sand",
@@ -664,7 +656,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_Fortress1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_sand",
@@ -752,7 +743,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_Fortress2" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_sand",
@@ -844,7 +834,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_Ruins" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_sand",
@@ -918,7 +907,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_Fortress3" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_metal_floor",
@@ -1006,7 +994,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_Fortress4" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_metal_floor",
@@ -1099,7 +1086,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_Fortress5" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_metal_floor",
@@ -1190,7 +1176,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_Fortress6" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_metal_floor",
@@ -1287,7 +1272,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_Showtime1" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_metal_floor",
@@ -1358,7 +1342,6 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_Island_Showtime2" ],
-    "method": "json",
     "weight": 100,
     "object": {
       "fill_ter": "t_metal_floor",
